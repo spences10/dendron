@@ -8,7 +8,6 @@ site:
     - root
   siteRootDir: docs
   usePrettyRefs: true
-  title: My Second Brain
   logo: "vault/assets/images/logo.png"
   username: spences10
   twitter: spences10
