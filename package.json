@@ -8,8 +8,6 @@
     "@dendronhq/dendron-cli": "^0.25.0"
   },
   "scripts": {
-    "dendron-cli": "dendron-cli",
-    "serve": "dendron-cli buildSiteV2 --wsRoot .  --stage dev --serve",
-    "build": "dendron-cli buildSiteV2 --wsRoot .  --stage prod"
+    "dendron-cli": "dendron-cli"
   }
 }

@@ -8,7 +8,7 @@ site:
     - root
   siteRootDir: docs
   usePrettyRefs: true
-  logo: "./docs/assets/images/logo.png"
+  logo: ./docs/assets/images/logo.png
   username: spences10
   twitter: spences10
-  siteUrl: "https://dendron.vercel.app/"
+  siteUrl: https://dendron.vercel.app
