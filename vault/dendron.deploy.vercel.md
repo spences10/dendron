@@ -2,7 +2,7 @@
 id: 56b6a8c1-bd84-4fd1-839f-f7e033f9171b
 title: Vercel
 desc: ''
-updated: 1611352968320
+updated: 1611353723057
 created: 1611352655402
 ---
 
@@ -13,6 +13,8 @@ created: 1611352655402
   "dendron-cli": "dendron-cli",
 }
 ```
+
+whee!
 
 ## Build & Development Settings
 
