@@ -1,12 +1,14 @@
 version: 1
 vaults:
-    -
-        fsPath: vault
+  - fsPath: vault
 useFMTitle: true
 site:
-    copyAssets: true
-    siteHierarchies:
-        - root
-    siteRootDir: docs
-    usePrettyRefs: true
-    title: Dendron
+  copyAssets: true
+  siteHierarchies:
+    - root
+  siteRootDir: docs
+  usePrettyRefs: true
+  title: My Second Brain
+  username: spences10
+  twitter: spences10
+  siteUrl: "https://spences10.github.io/dendron"
