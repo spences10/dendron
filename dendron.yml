@@ -9,7 +9,7 @@ site:
   siteRootDir: docs
   usePrettyRefs: true
   logo: ./docs/assets/images/logo.jpg
-  title: Knowledge Pamphlet
+  title: My Second Brain
   username: spences10
   twitter: spences10
   siteUrl: https://dendron.vercel.app
