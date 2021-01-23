@@ -2,7 +2,7 @@
 id: 23c377d3-e421-4e91-8473-e6afccf298bf
 title: My Second Brain
 desc: ''
-updated: 1611328619558
+updated: 1611407218821
 created: 1611251477662
 ---
 

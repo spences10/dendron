@@ -10,6 +10,7 @@ site:
   usePrettyRefs: true
   logo: ./docs/assets/images/logo.jpg
   title: My Second Brain
+  description: My Second Brain, links, resources and thoughts on web development and other related subjects.
   username: spences10
   twitter: spences10
   siteUrl: https://dendron.vercel.app
