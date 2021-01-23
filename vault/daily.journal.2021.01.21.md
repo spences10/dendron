@@ -2,7 +2,7 @@
 id: 5690f77e-e76b-4d98-bf1f-bf376ed10337
 title: '21'
 desc: ''
-updated: 1611400875518
+updated: 1611401031618
 created: 1611251774041
 ---
 
@@ -31,5 +31,5 @@ created: 1611251774041
 
 ## Tags
 
-[[#fonts|tags.fonts]] [[#gsap|tags.gsap]] [[seo]] [[serverless]]
-[[web-audio-api]] [[nextjs]] [[graphql]]
+[[fonts]] [[gsap]] [[seo]] [[serverless]] [[web-audio-api]] [[nextjs]]
+[[graphql]]
