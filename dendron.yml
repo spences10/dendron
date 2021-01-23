@@ -7,6 +7,7 @@ site:
   siteHierarchies:
     - root
   siteRootDir: docs
+  siteIndex: home
   usePrettyRefs: true
   logo: ./docs/assets/images/logo.jpg
   title: My Second Brain
