@@ -16,6 +16,8 @@
         "editor.suggest.showSnippets": true,
         "editor.tabCompletion": "on",
         "cSpell.words": [
+            "Cloudinary",
+            "Vercel's",
             "Zettelkasten",
             "gsap",
             "nextjs"
