@@ -16,6 +16,7 @@
         "editor.suggest.showSnippets": true,
         "editor.tabCompletion": "on",
         "cSpell.words": [
+            "Zettelkasten",
             "gsap",
             "nextjs"
         ]
