@@ -2,11 +2,9 @@
 id: 8bd875ac-64e8-4967-85db-84f633ce2656
 title: Windows Things
 desc: ''
-updated: 1611517126737
+updated: 1611578865255
 created: 1611517126737
 ---
-
-# Windows Things
 
 ## Trouble installing apps from Microsoft Store?
 
