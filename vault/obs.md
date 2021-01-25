@@ -2,7 +2,7 @@
 id: adda608b-c657-43b9-ad09-2981397959a7
 title: Obs
 desc: ''
-updated: 1611601186550
+updated: 1611601538313
 created: 1611601012461
 ---
 
@@ -27,7 +27,6 @@ created: 1611601012461
   https://www.youtube.com/watch?v=SJt0NW41dOc
 - Full Video Guide for OBS Studio And Twitch:
   https://obsproject.com/forum/resources/full-video-guide-for-obs-studio-and-twitch.377/
-- Rounded border/corner OBS:
-  https://www.youtube.com/watch?v=6y1otpAU_Ao
+- ed border/corner OBS: https://www.youtube.com/watch?v=6y1otpAU_Ao
 - move camera in OBS with hotkeys:
   https://www.youtube.com/watch?v=MtwXMyFkj0Q
