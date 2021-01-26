@@ -8,8 +8,8 @@ created: 1611604241690
 
 ## Repeating
 
-- [ ] Morning run!
-- [ ] job
+- [x] Morning run!
+- [x] job
 - [ ] Post lunch walk
 - [ ] job
 
