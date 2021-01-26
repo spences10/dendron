@@ -2,7 +2,7 @@
 id: a80d189f-8ed9-47c1-8a16-aedac033d9ca
 title: '26'
 desc: ''
-updated: 1611647487435
+updated: 1611673477366
 created: 1611604241690
 ---
 
@@ -10,12 +10,12 @@ created: 1611604241690
 
 - [x] Morning run!
 - [x] job
-- [ ] Post lunch walk
-- [ ] job
+- [x] Post lunch walk
+- [x] job
 
 ## Tasks
 
-- [ ] Cancel Google billing on family CMS project
+- [x] Cancel Google billing on family CMS project
 - [ ] Finish one of several paid articles
 - [ ] Write up sitemap creation with NextJS dynamic routes
 
