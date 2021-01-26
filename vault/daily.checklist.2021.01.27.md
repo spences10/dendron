@@ -2,18 +2,21 @@
 id: 2bdc4cb1-8e96-41e8-b7bc-09da11add093
 title: '27'
 desc: ''
-updated: 1611673647056
+updated: 1611685874065
 created: 1611673598044
 ---
 
 ## Repeating
 
-- [ ] Morning run!
+- [ ] Morning walk
 - [ ] job
 - [ ] Post lunch walk
 - [ ] job
 
 ## Tasks
+
+- [ ] Finish one of several paid articles
+- [ ] Write up sitemap creation with NextJS dynamic routes
 
 ## Backlog
 
