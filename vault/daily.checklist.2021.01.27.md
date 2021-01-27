@@ -2,16 +2,16 @@
 id: 2bdc4cb1-8e96-41e8-b7bc-09da11add093
 title: '27'
 desc: ''
-updated: 1611685874065
+updated: 1611765898959
 created: 1611673598044
 ---
 
 ## Repeating
 
-- [ ] Morning walk
-- [ ] job
-- [ ] Post lunch walk
-- [ ] job
+- [x] Morning walk
+- [x] job
+- [x] Post lunch walk
+- [x] job
 
 ## Tasks
 
@@ -31,3 +31,11 @@ created: 1611673598044
         of Google maps
 
 ## New
+
+- [ ] Pretty emails with [Maizzle]
+- [ ] Sending emails with [SendGrid]
+
+<!-- Links -->
+
+[maizzle]: https://maizzle.com/
+[sendgrid]: https://app.sendgrid.com
