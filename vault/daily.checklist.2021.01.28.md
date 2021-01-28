@@ -2,14 +2,14 @@
 id: 5ebc9120-0cfa-44ee-8bdf-bbf14a85350e
 title: '28'
 desc: ''
-updated: 1611779827695
+updated: 1611827161257
 created: 1611779725349
 ---
 
 ## Repeating
 
-- [ ] Morning run!
-- [ ] job
+- [x] Morning run!
+- [x] job
 - [ ] Post lunch walk
 - [ ] job
 
@@ -17,6 +17,7 @@ created: 1611779725349
 
 - [ ] Finish one of several paid articles
 - [ ] Write up sitemap creation with NextJS dynamic routes
+- [ ] Write up of Logitech G915
 - [ ] Pretty emails with [Maizzle]
 - [ ] Sending emails with [SendGrid]
 
