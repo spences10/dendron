@@ -2,7 +2,7 @@
 id: 5ebc9120-0cfa-44ee-8bdf-bbf14a85350e
 title: '28'
 desc: ''
-updated: 1611827161257
+updated: 1611852978590
 created: 1611779725349
 ---
 
@@ -10,8 +10,8 @@ created: 1611779725349
 
 - [x] Morning run!
 - [x] job
-- [ ] Post lunch walk
-- [ ] job
+- [x] Post lunch walk
+- [x] job
 
 ## Tasks
 
