@@ -2,7 +2,7 @@
 id: b1be696f-f6fa-4819-bf2f-e70d70bc6002
 title: '30'
 desc: ''
-updated: 1612030102596
+updated: 1612041962190
 created: 1611947758078
 ---
 
@@ -15,6 +15,8 @@ created: 1611947758078
 
 - Create generative social images using SVG:
   https://dev.to/georgedoescode/tutorial-create-generative-social-images-using-svg-2c47
+- Theme switcher with no flash from SLD:
+  https://www.gatsbyjs.com/plugins/gatsby-plugin-theme-switcher/
 
 ## Thoughts
 
