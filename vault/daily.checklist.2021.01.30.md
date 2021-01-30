@@ -2,14 +2,14 @@
 id: 3b28439a-5a5c-4dbf-a05f-5bd1c84e7a0e
 title: '30'
 desc: ''
-updated: 1611948275202
+updated: 1611993877880
 created: 1611948000865
 ---
 
 ## Repeating
 
-- [ ] Morning walk
-- [ ] Post lunch walk
+- [x] Morning run
+- [x] Post lunch walk
 
 ## Tasks
 
@@ -17,7 +17,9 @@ created: 1611948000865
 - [ ] Write up sitemap creation with NextJS dynamic routes
 - [ ] Write up of Logitech G915
 - [ ] Document using [Maizzle]
+  - [x] Create welcome email with [Maizzle]
 - [ ] Document use for [SendGrid]
+  - [x] Get email welcome on sign up working with [SendGrid]
 
 ## Backlog
 
