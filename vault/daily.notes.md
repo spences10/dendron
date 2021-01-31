@@ -2,12 +2,15 @@
 id: 09945c13-8f85-4ad8-a8bf-46aa9b0167ae
 title: Notes
 desc: ''
-updated: 1611836343186
+updated: 1612078853269
 created: 1611579893380
 ---
 
 ## Current Month
 
+- [[daily.notes.2021.01.31]]
+- [[daily.notes.2021.01.30]]
+- [[daily.notes.2021.01.29]]
 - [[daily.notes.2021.01.28]]
 - [[daily.notes.2021.01.27]]
 - [[daily.notes.2021.01.26]]
@@ -18,5 +21,7 @@ created: 1611579893380
 - [[daily.notes.2021.01.21]]
 
 ## Past Months
+
+- [[daily.notes.2021.01]]
 
 ## Past Years
