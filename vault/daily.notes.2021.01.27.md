@@ -8,7 +8,7 @@ created: 1611727726034
 ## Notes
 
 - Chat with
-  [[Sam Larsen-Disney|scratch.2021.01.27.sam-larsen-disney]]
+  [[Sam Larsen-Disney|scratch.2021.01.27.email.sam-larsen-disney]]
 
 ## Links
 

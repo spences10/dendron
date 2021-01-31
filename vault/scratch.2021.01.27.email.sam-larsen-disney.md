@@ -2,7 +2,7 @@
 id: ca3f878e-1b2d-4ca7-96f5-2af9f63126e6
 title: Pair with Sam Larsen Disney for email creation and distribution
 desc: ''
-updated: 1612037712149
+updated: 1612124436921
 created: 1611756544773
 ---
 
@@ -10,6 +10,11 @@ created: 1611756544773
 
 Sam uses [Maizzle] to make the HTML email look pretty then has
 SendGrid to send the emails.
+
+There's a lot to go over here
+
+SenGrid there was a fail bot to go over and Sam was kind enough to
+walk me through a lot of it
 
 ## Sending the emails
 
