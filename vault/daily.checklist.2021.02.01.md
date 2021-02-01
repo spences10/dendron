@@ -2,16 +2,17 @@
 id: f0e6e973-5510-47ea-847d-a36a364ce428
 title: '01'
 desc: ''
-updated: 1612127549370
+updated: 1612203946970
 created: 1612127481164
 ---
 
 ## Repeating
 
-- [ ] Morning run
-- [ ] Job
-- [ ] Post lunch walk
-- [ ] Job
+- [x] Morning run
+- [x] Stickers draw
+- [x] Job
+- [x] Post lunch walk
+- [x] Job
 
 ## Tasks
 
