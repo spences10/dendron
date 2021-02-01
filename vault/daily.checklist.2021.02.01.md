@@ -2,7 +2,7 @@
 id: f0e6e973-5510-47ea-847d-a36a364ce428
 title: '01'
 desc: ''
-updated: 1612203946970
+updated: 1612213043356
 created: 1612127481164
 ---
 
@@ -16,23 +16,23 @@ created: 1612127481164
 
 ## Tasks
 
-- [ ] Finish one of several paid articles
-- [ ] Write up sitemap creation with NextJS dynamic routes
-- [ ] Write up of Logitech G915
-- [ ] Document using [Maizzle]
-- [ ] Document use for [SendGrid]
+- [>] Finish one of several paid articles
+- [>] Write up sitemap creation with NextJS dynamic routes
+- [>] Write up of Logitech G915
+- [>] Document using [Maizzle]
+- [>] Document use for [SendGrid]
 
 ## Backlog
 
-- [ ] next.scottspence.com
-  - [ ] Plan pages content
-  - [ ] Styling with Theme UI
-  - [ ] Navigation
-- [ ] GitHub GraphQL endpoint heatmap data massage
-- [ ] GitHub GraphQL endpoint add heatmap data
-- [ ] Family CMS project (Sanity/NextJS)
-  - [ ] Look into different ways of displaying a map without the cost
-        of Google maps
+- [>] next.scottspence.com
+  - [>] Plan pages content
+  - [>] Styling with Theme UI
+  - [>] Navigation
+- [>] GitHub GraphQL endpoint heatmap data massage
+- [>] GitHub GraphQL endpoint add heatmap data
+- [>] Family CMS project (Sanity/NextJS)
+  - [>] Look into different ways of displaying a map without the cost
+    of Google maps
 
 ## New
 
