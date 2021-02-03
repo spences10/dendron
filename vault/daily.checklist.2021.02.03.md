@@ -2,7 +2,7 @@
 id: cd8da608-42c9-40a0-9544-38fd8973d6fd
 title: '03'
 desc: ''
-updated: 1612360762251
+updated: 1612375442864
 created: 1612291328034
 ---
 
@@ -11,8 +11,8 @@ created: 1612291328034
 - [x] Morning run
 - [x] Job
 - [x] Stickers draw
-- [ ] Post lunch walk
-- [ ] Job
+- [x] Post lunch walk
+- [x] Job
 
 ## Tasks
 
