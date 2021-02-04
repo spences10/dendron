@@ -2,7 +2,7 @@
 id: 73fb1278-b8a0-45e2-8184-2f0b0f1184db
 title: '04'
 desc: ''
-updated: 1612432407035
+updated: 1612480373539
 created: 1612432372015
 ---
 
@@ -17,3 +17,5 @@ created: 1612432372015
 ## Grateful
 
 ## Events
+
+- Watched Knives Out, was a good film
