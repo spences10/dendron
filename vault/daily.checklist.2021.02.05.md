@@ -2,7 +2,7 @@
 id: 67aa13fb-da4d-44c5-a77a-d7dab0186da9
 title: '05'
 desc: ''
-updated: 1612531448362
+updated: 1612549503713
 created: 1612531329900
 ---
 
@@ -10,8 +10,8 @@ created: 1612531329900
 
 - [x] Morning run
 - [x] Job
-- [ ] Post lunch walk
-- [ ] Job
+- [x] Post lunch walk
+- [x] Job
 
 ## Tasks
 
@@ -33,7 +33,7 @@ created: 1612531329900
 
 ## New
 
-- [ ] Finish giveaway mail
+- [x] Finish giveaway mail
 
 <!-- Links -->
 
