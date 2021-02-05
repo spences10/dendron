@@ -2,7 +2,7 @@
 id: 98ae2ede-6d7c-4c56-a2ab-9674b3a05a17
 title: '2021-02-05'
 desc: ''
-updated: 1612531609812
+updated: 1612556099287
 created: 1612531313565
 ---
 
@@ -22,6 +22,9 @@ created: 1612531313565
   ```
 
 ## Links
+
+- SendGrid email address variables:
+  https://sendgrid.com/docs/ui/sending-email/editor/#reserved-substitution-tags-1
 
 ## Thoughts
 
