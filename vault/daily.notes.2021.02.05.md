@@ -2,14 +2,14 @@
 id: 98ae2ede-6d7c-4c56-a2ab-9674b3a05a17
 title: '2021-02-05'
 desc: ''
-updated: 1612556099287
+updated: 1612609150152
 created: 1612531313565
 ---
 
 ## Notes
 
-- To encode a string for use in a Twitter share intent use `escape`
-  and the string you want to encode.
+- **DEPRECIATED** To encode a string for use in a Twitter share intent
+  use `escape` and the string you want to encode.
 
   - Example:
 
