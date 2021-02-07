@@ -2,14 +2,14 @@
 id: b7e5843e-881f-4a09-bd83-e7823f22cf27
 title: Checklist
 desc: ''
-updated: 1612127630748
+updated: 1612685892318
 created: 1611604667780
 stub: true
 ---
 
 ## Current Month
 
-- [[daily.checklist.2021.02.01]]
+- [[daily.checklist.2021.02]]
 
 ## Past Months
 
