@@ -2,7 +2,7 @@
 id: 9fb71261-a966-4179-b280-8f4bfdd713da
 title: '10'
 desc: ''
-updated: 1612978710282
+updated: 1612990994838
 created: 1612957775050
 ---
 
@@ -30,6 +30,7 @@ created: 1612957775050
 - Gradients on a site: https://uigradients.com/
 - Cubic bezier tool:
   https://lea.verou.me/2011/09/a-better-tool-for-cubic-bezier-easing/
+- Generative art creator: https://tabbied.com/
 
 ## Thoughts
 
