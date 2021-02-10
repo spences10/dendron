@@ -2,7 +2,7 @@
 id: 9fb71261-a966-4179-b280-8f4bfdd713da
 title: '10'
 desc: ''
-updated: 1612990994838
+updated: 1612991132319
 created: 1612957775050
 ---
 
@@ -13,6 +13,7 @@ created: 1612957775050
 
 ## Links
 
+- V fonts for variable fonts: https://v-fonts.com/
 - What the Heck Are Variable Fonts? (with Jason Pamental) — Learn With
   Jason: https://www.youtube.com/watch?v=ZDjIFGfrQKw
 - Variables Fonts and Text Effects (with Mandy Michael) — Learn With
