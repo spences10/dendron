@@ -2,15 +2,15 @@
 id: f185adaa-e988-413f-b14e-ca4454afde7d
 title: '14'
 desc: ''
-updated: 1613311976791
+updated: 1613332613718
 created: 1613290553114
 ---
 
 ## Repeating
 
-- [ ] Morning walk
-- [ ] Weekly newsletter
-- [ ] Post lunch walk
+- [ ] ~~Morning walk~~
+- [x] Weekly newsletter
+- [x] Post lunch walk
 
 ## Tasks
 
