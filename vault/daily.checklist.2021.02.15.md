@@ -2,16 +2,17 @@
 id: 913e2c43-8624-4464-b325-56be6a0b3e1c
 title: '15'
 desc: ''
-updated: 1613368698946
+updated: 1613414682663
 created: 1613368643417
 ---
 
 ## Repeating
 
-- [ ] Morning run
-- [ ] Job
-- [ ] Post lunch walk
-- [ ] Job
+- [x] Morning run
+- [x] Job
+- [x] Post lunch walk
+- [x] Pick course winner
+- [x] Job
 
 ## Tasks
 
