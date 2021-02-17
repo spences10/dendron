@@ -2,7 +2,7 @@
 id: d11f13eb-4a79-4c32-9572-f2e74b1972b5
 title: '16'
 desc: ''
-updated: 1613499656560
+updated: 1613543097338
 created: 1613461163638
 ---
 
@@ -16,22 +16,22 @@ created: 1613461163638
 
 ## Tasks
 
-- [ ] Slides for meetup on 23rd
-- [ ] Document use for [SendGrid]
-- [ ] Finish one of several paid articles
-- [ ] Document using [Maizzle]
+- [>] Slides for meetup on 23rd
+- [>] Document use for [SendGrid]
+- [>] Finish one of several paid articles
+- [>] Document using [Maizzle]
 
 ## Backlog
 
-- [ ] next.scottspence.com
-  - [ ] Plan pages content
-  - [ ] Styling with Theme UI
-  - [ ] Navigation
-- [ ] GitHub GraphQL endpoint heatmap data massage
-- [ ] GitHub GraphQL endpoint add heatmap data
-- [ ] Family CMS project (Sanity/NextJS)
-  - [ ] Look into different ways of displaying a map without the cost
-        of Google maps
+- [>] next.scottspence.com
+  - [>] Plan pages content
+  - [>] Styling with Theme UI
+  - [>] Navigation
+- [>] GitHub GraphQL endpoint heatmap data massage
+- [>] GitHub GraphQL endpoint add heatmap data
+- [>] Family CMS project (Sanity/NextJS)
+  - [>] Look into different ways of displaying a map without the cost
+    of Google maps
 
 ## New
 
