@@ -2,17 +2,18 @@
 id: 11562d9d-1491-4228-a3ac-d827039f62bc
 title: '20'
 desc: ''
-updated: 1613808580521
+updated: 1613840715416
 created: 1613808526900
 ---
 
 ## Repeating
 
-- [ ] Morning walk
-- [ ] Post lunch walk
+- [x] Morning walk
+- [ ] ~~Post lunch walk~~
 
 ## Tasks
 
+- [x] Newsletter for 21st
 - [ ] Order Nuud
 - [ ] Slides for meetup on 23rd
 - [ ] Document use for [SendGrid]
