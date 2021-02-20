@@ -1,19 +1,22 @@
 ---
-id: 20edab2d-82e9-4f1f-9969-bf4a70ee05e6
-title: '18'
+id: 01cd3b20-291f-421b-a47a-e1c4647a28d9
+title: '19'
 desc: ''
-updated: 1613718628802
-created: 1613631754853
+updated: 1613808515955
+created: 1613718634356
 ---
 
 ## Repeating
 
-- [>] Morning walk
-- [>] Post lunch walk
+- [x] Morning run
+- [x] Morning walk
+- [x] Job
+- [>] ~~Post lunch walk~~
+- [>] Order Nuud
+- [>] Job
 
 ## Tasks
 
-- [x] Help mother in law move house
 - [>] Slides for meetup on 23rd
 - [>] Document use for [SendGrid]
 - [>] Finish one of several paid articles
