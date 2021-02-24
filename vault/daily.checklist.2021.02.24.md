@@ -2,7 +2,7 @@
 id: 3a39bb43-e5f6-4f46-88c0-77e4144a0282
 title: '24'
 desc: ''
-updated: 1614172934576
+updated: 1614196552510
 created: 1614161197949
 ---
 
@@ -11,7 +11,7 @@ created: 1614161197949
 - [x] Morning run
 - [x] Job
 - [x] Post lunch walk
-- [ ] Job
+- [x] Job
 
 ## Tasks
 
