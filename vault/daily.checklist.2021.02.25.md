@@ -1,26 +1,25 @@
 ---
-id: 3a39bb43-e5f6-4f46-88c0-77e4144a0282
-title: '24'
+id: 56a656d2-b7a1-4668-9556-e6fb69c0619f
+title: '25'
 desc: ''
-updated: 1614235375440
-created: 1614161197949
+updated: 1614318078324
+created: 1614235350484
 ---
 
 ## Repeating
 
-- [x] Morning run
+- [x] Morning walk
 - [x] Job
 - [x] Post lunch walk
 - [x] Job
 
 ## Tasks
 
-- [x] Hand in notice at work
+- [>] Finish Making Presentations with MDX
 - [>] Finish Document use for [SendGrid]
 - [>] Finish one of several paid articles
 - [>] Document using [Maizzle]
 - [>] Update newsletter welcome email
-- [>] Finish Making Presentations with MDX
 
 ## Backlog
 
