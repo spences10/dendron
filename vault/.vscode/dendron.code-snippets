@@ -24,7 +24,7 @@
     "description": "time"
   },
   "dailyNotes": {
-    "prefix": "daily.notes",
+    "prefix": "dn",
     "scope": "markdown,yaml",
     "body": [
       "## Notes",
@@ -36,7 +36,7 @@
     "description": "daily notes snippet"
   },
   "dailyTasks": {
-    "prefix": "daily.checklist",
+    "prefix": "dc",
     "scope": "markdown,yaml",
     "body": ["## Repeating", "## Tasks", "## Backlog", "## New"],
     "description": "daily tasks snippet"
