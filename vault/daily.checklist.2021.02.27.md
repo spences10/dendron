@@ -2,14 +2,14 @@
 id: 11248feb-bdc4-48ae-868f-ea9356a808af
 title: '27'
 desc: ''
-updated: 1614439521910
+updated: 1614449263913
 created: 1614425459981
 ---
 
 ## Repeating
 
 - [x] Morning walk
-- [ ] Post lunch walk
+- [x] Post lunch walk
 
 ## Tasks
 
@@ -31,6 +31,8 @@ created: 1614425459981
   - [ ] Add search function with FuseJS
 
 ## New
+
+- [ ] Document QA Wolf
 
 <!-- Links -->
 
