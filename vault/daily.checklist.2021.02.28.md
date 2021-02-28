@@ -2,15 +2,15 @@
 id: 1ae0d4a7-b4ed-4a0c-a0a5-e7301e827398
 title: '28'
 desc: ''
-updated: 1614449386345
+updated: 1614537021944
 created: 1614449317924
 ---
 
 ## Repeating
 
-- [ ] Morning walk
-- [ ] Send Newsletter
-- [ ] Post lunch walk
+- [x] Morning walk
+- [x] Send Newsletter
+- [x] Post lunch walk
 
 ## Tasks
 
@@ -32,7 +32,11 @@ created: 1614449317924
 
 ## New
 
+- [ ] Make something with [React Remotion]
+
 <!-- Links -->
 
+[react remotion]:
+  https://twitter.com/JNYBGR/status/1358824089960542208
 [maizzle]: https://maizzle.com/
 [sendgrid]: https://app.sendgrid.com
