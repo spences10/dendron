@@ -2,10 +2,12 @@
 id: 895a98f7-4537-49e5-b56a-c7cc65575ada
 title: '02'
 desc: ''
-updated: 1614345020909
+updated: 1614449483803
 created: 1612165755337
 ---
 
+- [[daily.notes.2021.02.28]]
+- [[daily.notes.2021.02.27]]
 - [[daily.notes.2021.02.26]]
 - [[daily.notes.2021.02.25]]
 - [[daily.notes.2021.02.24]]
