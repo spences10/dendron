@@ -2,16 +2,16 @@
 id: 78d77175-d0b9-4f19-bb9c-8b277799be97
 title: '02'
 desc: ''
-updated: 1614677122130
+updated: 1614709616792
 created: 1614677098036
 ---
 
 ## Repeating
 
-- [ ] Morning walk
-- [ ] Job
-- [ ] Post lunch walk
-- [ ] Job
+- [x] Morning walk
+- [x] Job
+- [x] Post lunch walk
+- [x] Job
 
 ## Tasks
 
