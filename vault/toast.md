@@ -2,7 +2,7 @@
 id: d04e4c07-691e-4e84-9f45-f5b04f0ebb82
 title: Toast
 desc: ''
-updated: 1614852859653
+updated: 1615470515110
 created: 1613808641753
 ---
 
@@ -15,3 +15,19 @@ created: 1613808641753
 - Toast example site Prince: https://github.com/maxcell/prince-toast
 - React data viz for use in Toast: http://uber.github.io/react-vis/
 - Toast starters: https://github.com/toastdotdev/starters
+
+## Tailwind
+
+With styling and using [stylelint] in Toast, rather than use the
+recommended `stylelint.config.js` use `.stylelintrc` and add in the
+configuration as a JSON object.
+
+With the `module.exports` syntax Toast will derp, see the SO question
+for configuration: [How to solve semi-colon expected
+css(css-semicolonexpected)]
+
+<!-- Links -->
+
+[stylelint]: https://stylelint.io/user-guide/ignore-code
+[how to solve semi-colon expected css(css-semicolonexpected)]:
+  https://stackoverflow.com/a/63784195/1138354
