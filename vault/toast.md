@@ -2,7 +2,7 @@
 id: d04e4c07-691e-4e84-9f45-f5b04f0ebb82
 title: Toast
 desc: ''
-updated: 1615470515110
+updated: 1615471556031
 created: 1613808641753
 ---
 
@@ -28,6 +28,6 @@ css(css-semicolonexpected)]
 
 <!-- Links -->
 
-[stylelint]: https://stylelint.io/user-guide/ignore-code
+[stylelint]: https://stylelint.io/
 [how to solve semi-colon expected css(css-semicolonexpected)]:
   https://stackoverflow.com/a/63784195/1138354
