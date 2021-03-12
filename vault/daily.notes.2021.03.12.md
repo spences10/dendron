@@ -2,13 +2,16 @@
 id: c5f308b8-41bc-469b-8d1b-8bf87a7be01a
 title: '12'
 desc: ''
-updated: 1615563966497
+updated: 1615564929830
 created: 1615554015825
 ---
 
 ## Notes
 
 - direnv the tool I didn't know I needed!
+  - Docs,
+    - direnv hook: https://direnv.net/docs/hook.html
+    - main site: https://direnv.net/
   - install on Fedora 33 with
     ```
     sudo dnf -y install direnv

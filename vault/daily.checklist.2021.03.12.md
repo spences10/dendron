@@ -2,7 +2,7 @@
 id: 557fd73d-511f-4668-8420-6622b90954db
 title: '12'
 desc: ''
-updated: 1615558930441
+updated: 1615585282017
 created: 1615553882355
 ---
 
@@ -12,8 +12,8 @@ created: 1615553882355
 - [x] Morning walk
 - [x] Job
 - [ ] LinkedIn post
-- [ ] Post lunch walk
-- [ ] Job
+- [x] Post lunch walk
+- [x] Job
 - [ ] Community outreach
 
 ## Tasks
