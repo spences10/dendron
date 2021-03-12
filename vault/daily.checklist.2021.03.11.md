@@ -2,7 +2,7 @@
 id: 02e36445-4d9b-4725-9d47-df825dc63608
 title: '11'
 desc: ''
-updated: 1615493018239
+updated: 1615553877100
 created: 1615443972956
 ---
 
@@ -10,35 +10,35 @@ created: 1615443972956
 
 - [x] Morning walk
 - [x] Job
-- [ ] LinkedIn post
+- [>] LinkedIn post
 - [x] Post lunch walk
 - [x] Job
 
 ## Tasks
 
-- [ ] Finish Document use for [SendGrid]
-- [ ] Finish one of several paid articles
-- [ ] Document using [Maizzle]
-- [ ] Document QA Wolf
-- [ ] Make something with [React Remotion]
-- [ ] Get more familiar with [Render]
-- [ ] Document Toast
+- [>] Finish Document use for [SendGrid]
+- [>] Finish one of several paid articles
+- [>] Document using [Maizzle]
+- [>] Document QA Wolf
+- [>] Make something with [React Remotion]
+- [>] Get more familiar with [Render]
+- [>] Document Toast
 
 ## Backlog
 
-- [ ] toast.scottspence.com
+- [>] toast.scottspence.com
   - [x] Add search
-  - [ ] Plan pages content
-  - [ ] Styling with Tailwind
-  - [ ] Navigation
-- [ ] GitHub GraphQL endpoint heatmap data massage
-- [ ] GitHub GraphQL endpoint add heatmap data
-- [ ] Family CMS project (Sanity/NextJS)
-  - [ ] Add search function with FuseJS
+  - [>] Plan pages content
+  - [>] Styling with Tailwind
+  - [>] Navigation
+- [>] GitHub GraphQL endpoint heatmap data massage
+- [>] GitHub GraphQL endpoint add heatmap data
+- [>] Family CMS project (Sanity/NextJS)
+  - [>] Add search function with FuseJS
 
 ## New
 
-- [ ] Community outreach
+- [>] Community outreach
 
 <!-- Links -->
 
