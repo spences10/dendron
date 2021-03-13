@@ -2,7 +2,7 @@
 id: c5f308b8-41bc-469b-8d1b-8bf87a7be01a
 title: '12'
 desc: ''
-updated: 1615564929830
+updated: 1615621334508
 created: 1615554015825
 ---
 
@@ -27,10 +27,10 @@ created: 1615554015825
     load your environment variables
   - Allow the file with `direnv allow`
   - Alias to initialise direnv ini new projects:
-    ````
+    ```
     # direnv
-    alias -g di='echo dotenv > .envrc && touch .env && direnv allow'```
-    ````
+    alias -g di='echo dotenv > .envrc && touch .env && direnv allow'
+    ```
 
 ## Links
 
