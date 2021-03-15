@@ -2,7 +2,7 @@
 id: cffa4839-562d-4e4e-a466-0ec00bcf2175
 title: '15'
 desc: ''
-updated: 1615836622387
+updated: 1615836685446
 created: 1615794769525
 ---
 
@@ -15,31 +15,31 @@ created: 1615794769525
 
 ## Tasks
 
-- [ ] toast.scottspence.com
-  - [ ] Plan pages content
-  - [ ] Styling with Tailwind
+- [>] toast.scottspence.com
+  - [>] Plan pages content
+  - [>] Styling with Tailwind
   - [x] Navigation
-  - [ ] Tweet component
+  - [>] Tweet component
 
 ## Backlog
 
-- [ ] Finish Document use for [SendGrid]
-- [ ] Finish one of several paid articles
-  - [ ] Gatsby
-  - [ ] Serverless showdown
-- [ ] Document using [Maizzle]
-- [ ] Document QA Wolf
-- [ ] Make something with [React Remotion]
-- [ ] Get more familiar with [Render]
-- [ ] Document Toast
-- [ ] GitHub GraphQL endpoint heatmap data massage
-- [ ] GitHub GraphQL endpoint add heatmap data
-- [ ] Family CMS project (Sanity/NextJS)
-  - [ ] Add search function with FuseJS
+- [>] Finish Document use for [SendGrid]
+- [>] Finish one of several paid articles
+  - [>] Gatsby
+  - [>] Serverless showdown
+- [>] Document using [Maizzle]
+- [>] Document QA Wolf
+- [>] Make something with [React Remotion]
+- [>] Get more familiar with [Render]
+- [>] Document Toast
+- [>] GitHub GraphQL endpoint heatmap data massage
+- [>] GitHub GraphQL endpoint add heatmap data
+- [>] Family CMS project (Sanity/NextJS)
+  - [>] Add search function with FuseJS
 
 ## New
 
-- [ ] toast.scottspence.com > footer
+- [>] toast.scottspence.com > footer
 
 <!-- Links -->
 
