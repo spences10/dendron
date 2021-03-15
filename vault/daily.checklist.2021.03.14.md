@@ -2,7 +2,7 @@
 id: cce61bec-6aa5-47f7-9a3f-8b10eff4ee28
 title: '14'
 desc: ''
-updated: 1615700270837
+updated: 1615702691847
 created: 1615700215930
 ---
 
@@ -24,6 +24,8 @@ created: 1615700215930
 
 - [ ] Finish Document use for [SendGrid]
 - [ ] Finish one of several paid articles
+  - [ ] Gatsby
+  - [ ] Serverless showdown
 - [ ] Document using [Maizzle]
 - [ ] Document QA Wolf
 - [ ] Make something with [React Remotion]
