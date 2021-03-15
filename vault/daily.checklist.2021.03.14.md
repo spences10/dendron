@@ -2,43 +2,43 @@
 id: cce61bec-6aa5-47f7-9a3f-8b10eff4ee28
 title: '14'
 desc: ''
-updated: 1615702691847
+updated: 1615791295917
 created: 1615700215930
 ---
 
 ## Repeating
 
-- [ ] Morning walk
-- [ ] LinkedIn post
-- [ ] Post lunch walk
-- [ ] Community outreach
+- [>] Morning walk
+- [>] LinkedIn post
+- [>] Post lunch walk
+- [>] Community outreach
 
 ## Tasks
 
-- [ ] toast.scottspence.com
-  - [ ] Plan pages content
-  - [ ] Styling with Tailwind
-  - [ ] Navigation
+- [>] toast.scottspence.com
+  - [>] Plan pages content
+  - [>] Styling with Tailwind
+  - [>] Navigation
 
 ## Backlog
 
-- [ ] Finish Document use for [SendGrid]
-- [ ] Finish one of several paid articles
-  - [ ] Gatsby
-  - [ ] Serverless showdown
-- [ ] Document using [Maizzle]
-- [ ] Document QA Wolf
-- [ ] Make something with [React Remotion]
-- [ ] Get more familiar with [Render]
-- [ ] Document Toast
-- [ ] GitHub GraphQL endpoint heatmap data massage
-- [ ] GitHub GraphQL endpoint add heatmap data
-- [ ] Family CMS project (Sanity/NextJS)
-  - [ ] Add search function with FuseJS
+- [>] Finish Document use for [SendGrid]
+- [>] Finish one of several paid articles
+  - [>] Gatsby
+  - [>] Serverless showdown
+- [>] Document using [Maizzle]
+- [>] Document QA Wolf
+- [>] Make something with [React Remotion]
+- [>] Get more familiar with [Render]
+- [>] Document Toast
+- [>] GitHub GraphQL endpoint heatmap data massage
+- [>] GitHub GraphQL endpoint add heatmap data
+- [>] Family CMS project (Sanity/NextJS)
+  - [>] Add search function with FuseJS
 
 ## New
 
-- [ ] Tweet component for toast.scottspence.com
+- [>] Tweet component for toast.scottspence.com
 
 <!-- Links -->
 
