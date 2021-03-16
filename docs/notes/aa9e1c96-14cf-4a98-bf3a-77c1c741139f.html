@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 
-<html lang="en-US"><head>
+<html lang="en-US">
+<head>
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
   
-  <title>NextJS - undefined</title>
+  <title>NextJS - My Second Brain</title>
   
 
   <link
@@ -38,30 +39,30 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
    
   
-<meta name="description" content="">
+<meta name="description" content="My Second Brain, links, resources and thoughts on web development and other related subjects.">
 <meta name="author" content="">
 
 <link rel="canonical" href="https://dendron.vercel.app/notes/aa9e1c96-14cf-4a98-bf3a-77c1c741139f.html">
 
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://dendron.vercel.app/notes/aa9e1c96-14cf-4a98-bf3a-77c1c741139f.html">
-<meta property="og:description" content="">
+<meta property="og:description" content="My Second Brain, links, resources and thoughts on web development and other related subjects.">
 <meta property="og:image" content="https://dendron.vercel.app/logo.png">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@spences10">
 <meta name="twitter:url" content="https://dendron.vercel.app/notes/aa9e1c96-14cf-4a98-bf3a-77c1c741139f.html">
-<meta name="twitter:description" content="">
+<meta name="twitter:description" content="My Second Brain, links, resources and thoughts on web development and other related subjects.">
 <meta name="twitter:image" content="https://dendron.vercel.app/logo.png">
 
 
-  <meta property="og:title" content="NextJS - undefined" />
-  <meta name="twitter:title" content="NextJS - undefined" />
+  <meta property="og:title" content="NextJS - My Second Brain" />
+  <meta name="twitter:title" content="NextJS - My Second Brain" />
   
 </head>
 
 
-<body style="">
+<body>
     <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
       <symbol id="svg-link" viewBox="0 0 24 24">
         <title>Link</title>
@@ -94,7 +95,7 @@
         </svg>
       </symbol>
     </svg>
-  
+
     <div class="side-bar">
       <div class="site-header">
         <a href="https://dendron.vercel.app" class="site-title lh-tight">
@@ -117,7 +118,7 @@
           
             <div class="search">
               <div class="search-input-wrap">
-                <input type="text" id="search-input" class="search-input" tabindex="0" placeholder="Search " aria-label="Search " autocomplete="off">
+                <input type="text" id="search-input" class="search-input" tabindex="0" placeholder="Search My Second Brain" aria-label="Search My Second Brain" autocomplete="off">
                 <label for="search-input" class="search-label"><svg viewBox="0 0 24 24" class="search-icon"><use xlink:href="#svg-search"></use></svg></label>
               </div>
               <div id="search-results" class="search-results"></div>
@@ -137,8 +138,19 @@
 
         
         
-  
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+
         
+
+        <script>
+          $(function () {
+            $('[data-toggle="popover"]').popover({html: true})
+          })
+        </script>
 
         
 
@@ -148,19 +160,118 @@
     <meta itemprop="headline" content="NextJS">
     
     <meta itemprop="datePublished" content="2021-01-21T20:09:29+00:00">
-    <meta itemprop="dateModified" content="2021-01-21T20:09:35+00:00">
+    <meta itemprop="dateModified" content="2021-01-25T18:45:02+00:00">
 
     <div class="page__inner-wrap">
-      
+
       
 
       <section class="page__content" itemprop="text">
 
         
 
-        <h1 id="nextjs"><a aria-hidden="true" class="anchor-heading" href="#nextjs"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>NextJS</h1><span id="navId" data="aa9e1c96-14cf-4a98-bf3a-77c1c741139f"></span>
+        <h1 id="nextjs"><a aria-hidden="true" class="anchor-heading" href="#nextjs"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>NextJS</h1>
+<h2 id="data-fetching"><a aria-hidden="true" class="anchor-heading" href="#data-fetching"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Data Fetching</h2>
+<p>Runs at build time: <code>getStaticProps</code> (Static Generation): Fetch data
+at <strong>build time</strong>.</p>
+<p>Runs on render: <code>getStaticPaths</code> (Static Generation): Specify dynamic
+routes to pre-render based on data.</p>
+<p>Runs on refresh: <code>getServerSideProps</code> (Server-side Rendering): Fetch
+data on each request.</p>
+<h2 id="example-of-having-nested-routes"><a aria-hidden="true" class="anchor-heading" href="#example-of-having-nested-routes"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Example of having nested routes</h2>
+<p>This is for when you want to have dynamic routes that are more than a
+<code>posts/[slug].js</code> path, so what do I mean by that, lets take a look at
+the typical file structure on the Next.js example sites:</p>
+<pre class="language-text"><code class="language-text">next-js-project/
+├─ content/
+│  ├─ post-one.md
+│  ├─ post-two.md
+│  └─ post-three.md
+├─ pages/
+│  ├─ posts/[slug].js
+│  └─ index.js
+</code></pre>
+<p>That will give you the path to the files like:</p>
+<pre class="language-text"><code class="language-text">localhost:3000/posts/post-one
+localhost:3000/posts/ost-two
+localhost:3000/posts/post-three
+</code></pre>
+<p>That's fine n' all but what if you have content you want to link with
+your Markdown posts like images, that content folder will get a bit
+difficult to reason about once you get a lot of content in there.</p>
+<p>With Gatsby I have always done a file structure in this format:</p>
+<pre class="language-text"><code class="language-text">content/posts/yyyy/mm/dd/post-title/index.mdx
+</code></pre>
+<p>So I went about trying to do that with the Next.js examples.</p>
+<p>Thanks to <a href="https://github.com/ekafyi">Eka</a> in the Party Corgi Discord for pointing out the
+section in the <a href="https://nextjs.org/docs/basic-features/data-fetching#the-paths-key-required">basic features</a> of the Next.js documentation, it
+wasn't entirely clear to me what <strong>catch all routes</strong> was.</p>
+<p>:<code>lib/posts.js</code></p>
+<pre class="language-js"><code class="language-js"><span class="token keyword module">import</span> <span class="token imports">globby</span> <span class="token keyword module">from</span> <span class="token string">'globby'</span>
 
+<span class="token keyword">const</span> postsDirectory <span class="token operator">=</span> <span class="token string">'./content/posts'</span>
 
+<span class="token keyword module">export</span> <span class="token keyword">async</span> <span class="token keyword">function</span> <span class="token function">getPostPaths</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+  <span class="token keyword">const</span> files <span class="token operator">=</span> <span class="token keyword control-flow">await</span> <span class="token function">globby</span><span class="token punctuation">(</span>postsDirectory<span class="token punctuation">,</span> <span class="token punctuation">{</span>
+    expandDirectories<span class="token operator">:</span> <span class="token punctuation">{</span> extensions<span class="token operator">:</span> <span class="token punctuation">[</span><span class="token string">'md*'</span><span class="token punctuation">]</span> <span class="token punctuation">}</span><span class="token punctuation">,</span>
+  <span class="token punctuation">}</span><span class="token punctuation">)</span>
+
+  <span class="token keyword control-flow">return</span> <span class="token keyword control-flow">await</span> files
+<span class="token punctuation">}</span>
+
+<span class="token keyword module">export</span> <span class="token keyword">async</span> <span class="token keyword">function</span> <span class="token function">getPostSlugs</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+  <span class="token keyword">const</span> files <span class="token operator">=</span> <span class="token keyword control-flow">await</span> <span class="token function">getPostPaths</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+
+  <span class="token keyword">const</span> paths <span class="token operator">=</span> files<span class="token punctuation">.</span><span class="token method function property-access">map</span><span class="token punctuation">(</span><span class="token parameter">path</span> <span class="token arrow operator">=></span> <span class="token punctuation">{</span>
+    <span class="token keyword">const</span> split <span class="token operator">=</span> path<span class="token punctuation">.</span><span class="token method function property-access">split</span><span class="token punctuation">(</span><span class="token template-string"><span class="token template-punctuation string">`</span><span class="token string">/</span><span class="token template-punctuation string">`</span></span><span class="token punctuation">)</span>
+    <span class="token comment">// remove `content/posts` and `index.md*`</span>
+    <span class="token keyword">const</span> removedIndexFile <span class="token operator">=</span> split<span class="token punctuation">.</span><span class="token method function property-access">splice</span><span class="token punctuation">(</span><span class="token number">2</span><span class="token punctuation">,</span> split<span class="token punctuation">.</span><span class="token property-access">length</span> <span class="token operator">-</span> <span class="token number">3</span><span class="token punctuation">)</span>
+
+    <span class="token keyword control-flow">return</span> <span class="token punctuation">{</span>
+      params<span class="token operator">:</span> <span class="token punctuation">{</span>
+        slug<span class="token operator">:</span> removedIndexFile<span class="token punctuation">,</span>
+      <span class="token punctuation">}</span><span class="token punctuation">,</span>
+    <span class="token punctuation">}</span>
+  <span class="token punctuation">}</span><span class="token punctuation">)</span>
+
+  <span class="token keyword control-flow">return</span> <span class="token punctuation">{</span>
+    paths<span class="token punctuation">,</span>
+    fa<span class="token punctuation">,</span>
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+</code></pre>
+<p>:<code>pages/[...slug].js</code></p>
+<pre class="language-js"><code class="language-js"><span class="token keyword module">import</span> <span class="token imports"><span class="token punctuation">{</span> getPostSlugs <span class="token punctuation">}</span></span> <span class="token keyword module">from</span> <span class="token string">'../lib/posts'</span>
+
+<span class="token keyword module">export</span> <span class="token keyword module">default</span> <span class="token keyword">function</span> <span class="token function"><span class="token maybe-class-name">Post</span></span><span class="token punctuation">(</span><span class="token parameter"><span class="token punctuation">{</span> slug <span class="token punctuation">}</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+  <span class="token console class-name">console</span><span class="token punctuation">.</span><span class="token method function property-access">log</span><span class="token punctuation">(</span><span class="token string">'====================='</span><span class="token punctuation">)</span>
+  <span class="token console class-name">console</span><span class="token punctuation">.</span><span class="token method function property-access">log</span><span class="token punctuation">(</span><span class="token template-string"><span class="token template-punctuation string">`</span><span class="token string">slug::: </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>slug<span class="token interpolation-punctuation punctuation">}</span></span><span class="token template-punctuation string">`</span></span><span class="token punctuation">)</span>
+  <span class="token console class-name">console</span><span class="token punctuation">.</span><span class="token method function property-access">log</span><span class="token punctuation">(</span><span class="token string">'====================='</span><span class="token punctuation">)</span>
+  <span class="token keyword control-flow">return</span> <span class="token operator">&#x3C;</span><span class="token maybe-class-name">Layout</span><span class="token operator">></span>yo<span class="token operator">&#x3C;</span><span class="token operator">/</span><span class="token maybe-class-name">Layout</span><span class="token operator">></span>
+<span class="token punctuation">}</span>
+
+<span class="token keyword module">export</span> <span class="token keyword">const</span> <span class="token function-variable function">getStaticPaths</span> <span class="token operator">=</span> <span class="token keyword">async</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token arrow operator">=></span> <span class="token punctuation">{</span>
+  <span class="token keyword control-flow">return</span> <span class="token keyword control-flow">await</span> <span class="token function">getPostSlugs</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+<span class="token punctuation">}</span>
+
+<span class="token keyword module">export</span> <span class="token keyword">const</span> <span class="token function-variable function">getStaticProps</span> <span class="token operator">=</span> <span class="token keyword">async</span> <span class="token punctuation">(</span><span class="token parameter"><span class="token punctuation">{</span> params<span class="token operator">:</span> <span class="token punctuation">{</span> slug <span class="token punctuation">}</span> <span class="token punctuation">}</span></span><span class="token punctuation">)</span> <span class="token arrow operator">=></span> <span class="token punctuation">{</span>
+  <span class="token keyword control-flow">return</span> <span class="token punctuation">{</span>
+    props<span class="token operator">:</span> <span class="token punctuation">{</span> slug <span class="token punctuation">}</span><span class="token punctuation">,</span>
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+</code></pre>
+<!-- Links -->
+<hr>
+<h2 id="children"><a aria-hidden="true" class="anchor-heading" href="#children"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Children</h2>
+<ol>
+<li><a href="https://dendron.vercel.app/notes/8f9c5a32-25f1-4b85-9dc4-623fbc2f45c0.html">Resources</a></li>
+</ol>
+<hr>
+<h2 id="backlinks"><a aria-hidden="true" class="anchor-heading" href="#backlinks"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Backlinks</h2>
+<ul>
+<li><a href="https://dendron.vercel.app/notes/5690f77e-e76b-4d98-bf1f-bf376ed10337.html">21</a></li>
+<li><a href="https://dendron.vercel.app/notes/011b6d4b-45af-4a63-98e7-4234b55a671e.html">31</a></li>
+</ul><span id="navId" data="aa9e1c96-14cf-4a98-bf3a-77c1c741139f"></span>
 
                 
       </section>
@@ -183,11 +294,8 @@
             
 
             
-              <div class="d-flex mt-2">
-                
                 
               </div>
-            
           </footer>
         
     </div>

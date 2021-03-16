@@ -8,7 +8,7 @@ site:
     - root
   siteRootDir: docs
   usePrettyRefs: true
-  logo: ./docs/assets/images/logo.jpg
+  logo: ./docs/assets/images/logo.png
   title: My Second Brain
   description: My Second Brain, links, resources and thoughts on web development and other related subjects.
   username: spences10

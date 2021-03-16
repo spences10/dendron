@@ -4,12 +4,12 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@dendronhq/dendron-11ty": "^1.28.3",
-    "@dendronhq/dendron-cli": "^0.28.2"
+    "@dendronhq/dendron-11ty": "^1.33.0",
+    "@dendronhq/dendron-cli": "^0.33.0"
   },
   "scripts": {
-    "dendron-cli": "dendron-cli",
-    "serve": "dendron-cli buildSiteV2 --wsRoot .  --stage dev --serve",
-    "build": "dendron-cli buildSiteV2 --wsRoot .  --stage prod --output docs"
+    "dendron": "dendron",
+    "serve": "dendron buildSite --wsRoot .  --stage dev --serve",
+    "build": "dendron buildSite --wsRoot .  --stage prod --output docs"
   }
 }
