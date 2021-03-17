@@ -2,42 +2,42 @@
 id: fb2e0be1-e455-40cb-823c-47dbe27b51cd
 title: '16'
 desc: ''
-updated: 1615921922235
+updated: 1615974739108
 created: 1615874259859
 ---
 
 ## Repeating
 
-- [ ] Morning walk
+- [>] Morning walk
 - [x] LinkedIn post
 - [x] Post lunch walk
 - [x] Community outreach
 
 ## Tasks
 
-- [ ] Finish one of several paid articles
-  - [ ] Gatsby
-- [ ] toast.scottspence.com
-  - [ ] Plan pages content
-  - [ ] Styling with Tailwind
-  - [ ] Tweet component
-  - [ ] footer
+- [>] Finish one of several paid articles
+  - [>] Gatsby
+- [>] toast.scottspence.com
+  - [>] Plan pages content
+  - [>] Styling with Tailwind
+  - [>] Tweet component
+  - [>] footer
 
 ## Backlog
 
-- [ ] Finish Document use for [SendGrid]
-- [ ] Finish one of several paid articles
-  - [ ] Gatsby
-  - [ ] Serverless showdown
-- [ ] Document using [Maizzle]
-- [ ] Document QA Wolf
-- [ ] Make something with [React Remotion]
-- [ ] Get more familiar with [Render]
-- [ ] Document Toast
-- [ ] GitHub GraphQL endpoint heatmap data massage
-- [ ] GitHub GraphQL endpoint add heatmap data
-- [ ] Family CMS project (Sanity/NextJS)
-  - [ ] Add search function with FuseJS
+- [>] Finish Document use for [SendGrid]
+- [>] Finish one of several paid articles
+  - [>] Gatsby
+  - [>] Serverless showdown
+- [>] Document using [Maizzle]
+- [>] Document QA Wolf
+- [>] Make something with [React Remotion]
+- [>] Get more familiar with [Render]
+- [>] Document Toast
+- [>] GitHub GraphQL endpoint heatmap data massage
+- [>] GitHub GraphQL endpoint add heatmap data
+- [>] Family CMS project (Sanity/NextJS)
+  - [>] Add search function with FuseJS
 
 ## New
 
