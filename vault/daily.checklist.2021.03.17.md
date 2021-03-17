@@ -2,16 +2,16 @@
 id: a0ab073b-c52b-4e3f-a89c-fe405bff6c7a
 title: '17'
 desc: ''
-updated: 1615974739672
+updated: 1616019828328
 created: 1615974716814
 ---
 
 ## Repeating
 
-- [ ] Morning walk
+- [x] Morning walk
 - [ ] LinkedIn post
 - [ ] Post lunch walk
-- [ ] Community outreach
+- [x] Community outreach
 
 ## Tasks
 
