@@ -2,48 +2,49 @@
 id: f9afdc58-b64c-430d-a01a-b7bfdcecb671
 title: '19'
 desc: ''
-updated: 1616169753885
+updated: 1616225647075
 created: 1616139887659
 ---
 
 ## Repeating
 
-- [ ] Make time for health
+- [x] Make time for health
   - [x] Morning walk
-  - [ ] Post lunch walk
-- [ ] LinkedIn post
-- [ ] Community outreach
+  - [x] Post lunch walk
+- [>] LinkedIn post
+- [>] Community outreach
+- [x] Stream Nattermobs
 
 ## Tasks
 
-- [ ] toast.scottspence.com
-  - [ ] Plan pages content
-  - [ ] Styling with Tailwind
-  - [ ] footer
-  - [ ] Finish post ending
-- [ ] Finish one of several paid articles
-  - [ ] Serverless showdown
+- [>] toast.scottspence.com
+  - [>] Plan pages content
+  - [>] Styling with Tailwind
+  - [>] footer
+  - [>] Finish post ending
+- [>] Finish one of several paid articles
+  - [>] Serverless showdown
 
 ## Backlog
 
-- [ ] Finish Document use for [SendGrid]
-- [ ] Document using [Maizzle]
-- [ ] Document QA Wolf
-- [ ] Make something with [React Remotion]
-- [ ] Get more familiar with [Render]
-- [ ] Document Toast
-- [ ] GitHub GraphQL endpoint heatmap data massage
-- [ ] GitHub GraphQL endpoint add heatmap data
-- [ ] Family CMS project (Sanity/NextJS)
-  - [ ] Add search function with FuseJS
+- [>] Finish Document use for [SendGrid]
+- [>] Document using [Maizzle]
+- [>] Document QA Wolf
+- [>] Make something with [React Remotion]
+- [>] Get more familiar with [Render]
+- [>] Document Toast
+- [>] GitHub GraphQL endpoint heatmap data massage
+- [>] GitHub GraphQL endpoint add heatmap data
+- [>] Family CMS project (Sanity/NextJS)
+  - [>] Add search function with FuseJS
 
 ## New
 
-- [ ] toast.scottspence.com
-  - [ ] Theme switch
-- [ ] UtkalHacks.tech talk 31st March
-  - [ ] Detail using Gatsby MDX with GraphCMS for content
-- [ ] WSL custom distro and shortcut keys
+- [>] toast.scottspence.com
+  - [>] Theme switch
+- [>] UtkalHacks.tech talk 31st March
+  - [>] Detail using Gatsby MDX with GraphCMS for content
+- [>] WSL custom distro and shortcut keys
 
 <!-- Links -->
 
