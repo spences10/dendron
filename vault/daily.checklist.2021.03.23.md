@@ -2,7 +2,7 @@
 id: 7ffedf25-a21a-418e-8395-03526a5687c6
 title: '23'
 desc: ''
-updated: 1616529702205
+updated: 1616529912230
 created: 1616489889088
 ---
 
@@ -45,6 +45,9 @@ created: 1616489889088
   - [ ] Add search function with FuseJS
 
 ## New
+
+- [ ] toast.scottspence.com
+  - [ ] Tailwind JIT
 
 <!-- Links -->
 
