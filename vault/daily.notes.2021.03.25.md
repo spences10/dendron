@@ -30,6 +30,8 @@ created: 1616666463434
 
 ## Links
 
+- Invoicing software: https://dippper.com/
+
 ## Thoughts
 
 ## Grateful
