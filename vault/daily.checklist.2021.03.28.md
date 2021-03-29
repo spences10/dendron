@@ -1,16 +1,17 @@
 ---
-id: b28368f0-a21e-4709-9d8b-ab2478ea21e0
-title: '27'
+id: e7fa7110-ea89-425f-b197-9bf4f90dac4d
+title: '28'
 desc: ''
-updated: 1616920639411
-created: 1616844657153
+updated: 1617038389292
+created: 1616920645193
 ---
 
 ## Repeating Daily
 
 - [x] Make time for health
-  - [x] Mow the lawns
-  - [>] Post lunch walk
+  - [x] Hoover the house
+  - [x] Post lunch walk
+- [x] Newsletter
 - [>] LinkedIn post
 - [>] Community outreach
 
@@ -29,7 +30,6 @@ created: 1616844657153
   - [>] Plan pages content
   - [>] Styling with Tailwind
   - [>] Finish post ending
-  - [x] Post - WSL custom distro and shortcut keys
   - [>] Tailwind JIT
 
 ## Backlog
@@ -39,6 +39,7 @@ created: 1616844657153
 - [>] Document QA Wolf
 - [>] Make something with [React Remotion]
 - [>] Get more familiar with [Render]
+- [>] Get more familiar with [Begin]
 - [>] Document Toast
 - [>] GitHub GraphQL endpoint heatmap data massage
 - [>] GitHub GraphQL endpoint add heatmap data
@@ -54,3 +55,4 @@ created: 1616844657153
 [maizzle]: https://maizzle.com/
 [sendgrid]: https://app.sendgrid.com
 [render]: https://render.com/
+[begin]: https://begin.com/
