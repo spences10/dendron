@@ -2,27 +2,29 @@
 id: 233cf662-cc67-424d-8a45-f6f4ffca9b3f
 title: '30'
 desc: ''
-updated: 1617082212597
+updated: 1617125481743
 created: 1617082136475
 ---
 
 ## Repeating Daily
 
 - [ ] Make time for health
-  - [ ] Morning Walk
+  - [x] Morning Walk
   - [ ] Post lunch walk
 - [ ] LinkedIn post
-- [ ] Community outreach
+- [x] Community outreach
 
 ## Tasks
 
-- [ ] UtkalHacks.tech talk 31st March
-  - [ ] Detail using Gatsby MDX with GraphCMS for content
+- [x] UtkalHacks.tech talk 31st March
+  - [x] Detail using Gatsby MDX with GraphCMS for content
 - [ ] Finish paid article
   - [ ] Serverless showdown
     - [ ] Vercel
     - [ ] Netlify
     - [ ] Begin
+- [ ] natterpops
+  - [ ] OG serverless function
 - [ ] toast.scottspence.com
   - [ ] Plan pages content
   - [ ] Styling with Tailwind
