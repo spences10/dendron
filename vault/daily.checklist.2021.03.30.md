@@ -2,7 +2,7 @@
 id: 233cf662-cc67-424d-8a45-f6f4ffca9b3f
 title: '30'
 desc: ''
-updated: 1617125481743
+updated: 1617128077246
 created: 1617082136475
 ---
 
@@ -27,6 +27,7 @@ created: 1617082136475
   - [ ] OG serverless function
 - [ ] toast.scottspence.com
   - [ ] Plan pages content
+  - [ ] Markdown component
   - [ ] Styling with Tailwind
   - [ ] Finish post ending
   - [ ] Tailwind JIT
@@ -47,6 +48,11 @@ created: 1617082136475
   - [ ] Add search function with FuseJS
 
 ## New
+
+- [ ] Localhost blog
+  - [ ] link aggregator for combined posts
+- [ ] toast.scottspence.com
+  - [ ] Markdown component
 
 <!-- Links -->
 
