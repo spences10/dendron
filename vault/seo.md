@@ -2,7 +2,7 @@
 id: fc05cacb-ee55-45b6-93ec-b279eeea8f16
 title: SEO
 desc: ''
-updated: 1611600736746
+updated: 1617217591427
 created: 1611253129433
 ---
 
@@ -22,7 +22,9 @@ created: 1611253129433
 
 - SEO with Gatsby: https://www.gatsbyjs.org/docs/seo/
 
-- SEO tool: https://www.woorank.com
+- SEO tool (paid): https://www.woorank.com
+
+- SEO tool: https://neilpatel.com/seo-analyzer/
 
 - **Would not recommend** Entire Web ~~SEO you can [Submit your link]
   directly to search engines via Entire Web.~~
