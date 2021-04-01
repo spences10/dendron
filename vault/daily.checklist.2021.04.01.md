@@ -2,19 +2,19 @@
 id: 404b42b5-e9f3-4d6b-b26d-7f790bf5db45
 title: '01'
 desc: ''
-updated: 1617258000121
+updated: 1617288559268
 created: 1617257777536
 ---
 
 ## Repeating Daily
 
-- [ ] Make time for health
-  - [ ] Morning Walk
-  - [ ] Post lunch walk
+- [x] Make time for health
+  - [x] Morning Walk
+  - [x] Post lunch walk
 - [ ] LinkedIn post
 - [ ] Community outreach
 - [ ] [Invoice Sitepoint]
-- [ ] Go to the bakers
+- [x] Go to the bakers
 
 ## Tasks
 
@@ -54,7 +54,13 @@ created: 1617257777536
 
 ## New
 
-<!-- Links -->
+- [x] toast.scottspence.com
+  - [x] Make details component to conditionally render children
+  - [ ] Add upcoming talks to speaking page, maybe same position as
+        where the ToC goes
+- [ ] MDX Embed
+  - [ ] Make details component to conditionally render children
+  <!-- Links -->
 
 [react remotion]:
   https://twitter.com/JNYBGR/status/1358824089960542208
