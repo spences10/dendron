@@ -2,12 +2,14 @@
 id: 7083392f-aae5-4005-93ac-21d1ff80a22a
 title: Developer Relations
 desc: ''
-updated: 1615476452146
+updated: 1617289439430
 created: 1615476207058
 ---
 
 ## Resources
 
+- My Top Ten Tips for Surviving and Thriving in Developer Relations:
+  https://thebeebs.net/2021/03/02/my-top-ten-tips-for-surviving-and-thriving-in-developer-relations/
 - Starting a Career in Tech - What is Developer Relations?:
   https://www.youtube.com/watch?v=XeFAYLEdWyk
 - The goals and future of developer events with Jana Boruta:
@@ -22,3 +24,18 @@ created: 1615476207058
   https://ashleemboyer.com/my-writing-and-planning-process
 - Checkpoint: 16 Weeks of Blogging:
   https://dev.to/eevajonnapanula/checkpoint-16-weeks-of-blogging-2ofj
+
+## Developer Advocate
+
+- Three C's, Create, Connect, Close
+  - Create:
+    - Sample Apps, Blogs, Videos, Documentation
+  - Connect:
+    - with the developers the technology was made for, user interviews
+      could be a good way to understand how the developers feel about
+      the product.
+    - Authentic connections mean a lot!
+    - Understand Pain Points, Love Points and Want Points
+  - Close:
+    - Close the feedback loop, after creating and connecting insights
+      to bring back to the company
