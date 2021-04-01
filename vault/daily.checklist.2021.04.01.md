@@ -2,7 +2,7 @@
 id: 404b42b5-e9f3-4d6b-b26d-7f790bf5db45
 title: '01'
 desc: ''
-updated: 1617288559268
+updated: 1617302938564
 created: 1617257777536
 ---
 
@@ -12,7 +12,7 @@ created: 1617257777536
   - [x] Morning Walk
   - [x] Post lunch walk
 - [ ] LinkedIn post
-- [ ] Community outreach
+- [x] Community outreach
 - [ ] [Invoice Sitepoint]
 - [x] Go to the bakers
 
@@ -55,12 +55,12 @@ created: 1617257777536
 ## New
 
 - [x] toast.scottspence.com
-  - [x] Make details component to conditionally render children
   - [ ] Add upcoming talks to speaking page, maybe same position as
         where the ToC goes
-- [ ] MDX Embed
-  - [ ] Make details component to conditionally render children
-  <!-- Links -->
+  - [x] Make details component to conditionally render children
+  - [ ] Make OG Image serverless function
+
+<!-- Links -->
 
 [react remotion]:
   https://twitter.com/JNYBGR/status/1358824089960542208
