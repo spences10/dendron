@@ -2,7 +2,7 @@
 id: 404b42b5-e9f3-4d6b-b26d-7f790bf5db45
 title: '01'
 desc: ''
-updated: 1617302938564
+updated: 1617345675261
 created: 1617257777536
 ---
 
@@ -11,54 +11,54 @@ created: 1617257777536
 - [x] Make time for health
   - [x] Morning Walk
   - [x] Post lunch walk
-- [ ] LinkedIn post
+- [>] LinkedIn post
 - [x] Community outreach
-- [ ] [Invoice Sitepoint]
+- [>] [Invoice Sitepoint]
 - [x] Go to the bakers
 
 ## Tasks
 
-- [ ] Finish paid article
-  - [ ] Serverless showdown
-    - [ ] Vercel
-    - [ ] Netlify
-    - [ ] [Begin]
-    - [ ] [moovweb]
-- [ ] natterpops
-  - [ ]
+- [>] Finish paid article
+  - [>] Serverless showdown
+    - [>] Vercel
+    - [>] Netlify
+    - [>] [Begin]
+    - [>] [moovweb]
+- [>] natterpops
+  - [>]
     [[OG serverless function|scratch.2021.03.31.104330.og-serverless-function]]
-- [ ] toast.scottspence.com
-  - [ ] Plan pages content
-  - [ ] Markdown component
-  - [ ] Styling with Tailwind
-  - [ ] Finish post ending
-  - [ ] Tailwind JIT
-  - [ ] Add tags page
-  - [ ] Markdown component
-- [ ] Localhost blog
-  - [ ] link aggregator for combined posts
+- [>] toast.scottspence.com
+  - [>] Plan pages content
+  - [>] Markdown component
+  - [>] Styling with Tailwind
+  - [>] Finish post ending
+  - [>] Tailwind JIT
+  - [>] Add tags page
+  - [>] Markdown component
+- [>] Localhost blog
+  - [>] link aggregator for combined posts
 
 ## Backlog
 
-- [ ] Finish Document use for [SendGrid]
-- [ ] Document using [Maizzle]
-- [ ] Document QA Wolf
-- [ ] Make something with [React Remotion]
-- [ ] Get more familiar with [Render]
-- [ ] Get more familiar with [Begin]
-- [ ] Document Toast
-- [ ] GitHub GraphQL endpoint heatmap data massage
-- [ ] GitHub GraphQL endpoint add heatmap data
-- [ ] Family CMS project (Sanity/NextJS)
-  - [ ] Add search function with FuseJS
+- [>] Finish Document use for [SendGrid]
+- [>] Document using [Maizzle]
+- [>] Document QA Wolf
+- [>] Make something with [React Remotion]
+- [>] Get more familiar with [Render]
+- [>] Get more familiar with [Begin]
+- [>] Document Toast
+- [>] GitHub GraphQL endpoint heatmap data massage
+- [>] GitHub GraphQL endpoint add heatmap data
+- [>] Family CMS project (Sanity/NextJS)
+  - [>] Add search function with FuseJS
 
 ## New
 
 - [x] toast.scottspence.com
-  - [ ] Add upcoming talks to speaking page, maybe same position as
-        where the ToC goes
+  - [>] Add upcoming talks to speaking page, maybe same position as
+    where the ToC goes
   - [x] Make details component to conditionally render children
-  - [ ] Make OG Image serverless function
+  - [>] Make OG Image serverless function
 
 <!-- Links -->
 
