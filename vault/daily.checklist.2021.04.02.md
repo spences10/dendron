@@ -2,7 +2,7 @@
 id: 7383aa66-9f65-44fa-992d-4f56f4004e00
 title: '02'
 desc: ''
-updated: 1617345784111
+updated: 1617370779016
 created: 1617345549705
 ---
 
@@ -10,9 +10,9 @@ created: 1617345549705
 
 - [ ] Make time for health
   - [ ] Morning Walk
-  - [ ] Post lunch walk
+  - [x] Post lunch walk
 - [ ] LinkedIn post
-- [ ] Community outreach
+- [x] Community outreach
 - [ ] [Invoice Sitepoint]
 
 ## Tasks
@@ -27,17 +27,24 @@ created: 1617345549705
   - [ ]
     [[OG serverless function|scratch.2021.03.31.104330.og-serverless-function]]
 - [ ] toast.scottspence.com
+  - [ ] Make OG Image serverless function
+  - [ ] Components
+    - [ ] Markdown component
+    - [ ] TopLanguages
+    - [ ] Projects
+    - [ ] GitHubContributions
   - [ ] Plan pages content
-  - [ ] Markdown component
   - [ ] Styling with Tailwind
   - [ ] Finish post ending
   - [ ] Tailwind JIT
   - [ ] Add tags page
   - [ ] Add upcoming talks to speaking page, maybe same position as
         where the ToC goes
-  - [ ] Make OG Image serverless function
+  - [x] Email form linked to SendGrid
+  - [x] [[Create a privacy policy|scratch.2021.04.02.114226.create-a-privacy-policy]]
 - [ ] Localhost blog
   - [ ] link aggregator for combined posts
+- [ ] [[Free Web Development Resources|scratch.2021.04.02.074748.free-web-development-resources]]
 
 ## Backlog
 
