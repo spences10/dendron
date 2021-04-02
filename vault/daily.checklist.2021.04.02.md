@@ -2,7 +2,7 @@
 id: 7383aa66-9f65-44fa-992d-4f56f4004e00
 title: '02'
 desc: ''
-updated: 1617370779016
+updated: 1617391239712
 created: 1617345549705
 ---
 
@@ -23,8 +23,8 @@ created: 1617345549705
     - [ ] Netlify
     - [ ] [Begin]
     - [ ] [moovweb]
-- [ ] natterpops
-  - [ ]
+- [x] natterpops
+  - [x]
     [[OG serverless function|scratch.2021.03.31.104330.og-serverless-function]]
 - [ ] toast.scottspence.com
   - [ ] Make OG Image serverless function
@@ -45,6 +45,8 @@ created: 1617345549705
 - [ ] Localhost blog
   - [ ] link aggregator for combined posts
 - [ ] [[Free Web Development Resources|scratch.2021.04.02.074748.free-web-development-resources]]
+- [ ] cv.xyz
+  - [ ] use vite vue and MDX
 
 ## Backlog
 
