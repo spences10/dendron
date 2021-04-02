@@ -2,67 +2,69 @@
 id: 7383aa66-9f65-44fa-992d-4f56f4004e00
 title: '02'
 desc: ''
-updated: 1617391239712
+updated: 1617393158181
 created: 1617345549705
 ---
 
 ## Repeating Daily
 
-- [ ] Make time for health
-  - [ ] Morning Walk
+- [>] Make time for health
+  - [>] Morning Walk
   - [x] Post lunch walk
-- [ ] LinkedIn post
+- [>] LinkedIn post
 - [x] Community outreach
-- [ ] [Invoice Sitepoint]
+- [>] [Invoice Sitepoint]
 
 ## Tasks
 
-- [ ] Finish paid article
-  - [ ] Serverless showdown
-    - [ ] Vercel
-    - [ ] Netlify
-    - [ ] [Begin]
-    - [ ] [moovweb]
+- [>] Finish paid article
+  - [>] Serverless showdown
+    - [>] Vercel
+    - [>] Netlify
+    - [>] [Begin]
+    - [>] [moovweb]
 - [x] natterpops
   - [x]
     [[OG serverless function|scratch.2021.03.31.104330.og-serverless-function]]
-- [ ] toast.scottspence.com
-  - [ ] Make OG Image serverless function
-  - [ ] Components
-    - [ ] Markdown component
-    - [ ] TopLanguages
-    - [ ] Projects
-    - [ ] GitHubContributions
-  - [ ] Plan pages content
-  - [ ] Styling with Tailwind
-  - [ ] Finish post ending
-  - [ ] Tailwind JIT
-  - [ ] Add tags page
-  - [ ] Add upcoming talks to speaking page, maybe same position as
-        where the ToC goes
+- [>] toast.scottspence.com
+  - [>] Make OG Image serverless function
+  - [>] Components
+    - [>] Markdown component
+    - [>] TopLanguages
+    - [>] Projects
+    - [>] GitHubContributions
+  - [>] Plan pages content
+  - [>] Styling with Tailwind
+  - [>] Finish post ending
+  - [>] Tailwind JIT
+  - [>] Add tags page
+  - [>] Add upcoming talks to speaking page, maybe same position as
+    where the ToC goes
   - [x] Email form linked to SendGrid
   - [x] [[Create a privacy policy|scratch.2021.04.02.114226.create-a-privacy-policy]]
-- [ ] Localhost blog
-  - [ ] link aggregator for combined posts
-- [ ] [[Free Web Development Resources|scratch.2021.04.02.074748.free-web-development-resources]]
-- [ ] cv.xyz
-  - [ ] use vite vue and MDX
+- [>] Localhost blog
+  - [>] link aggregator for combined posts
+- [>]
+  [[Free Web Development Resources|scratch.2021.04.02.074748.free-web-development-resources]]
 
 ## Backlog
 
-- [ ] Finish Document use for [SendGrid]
-- [ ] Document using [Maizzle]
-- [ ] Document QA Wolf
-- [ ] Make something with [React Remotion]
-- [ ] Get more familiar with [Render]
-- [ ] Get more familiar with [Begin]
-- [ ] Document Toast
-- [ ] GitHub GraphQL endpoint heatmap data massage
-- [ ] GitHub GraphQL endpoint add heatmap data
-- [ ] Family CMS project (Sanity/NextJS)
-  - [ ] Add search function with FuseJS
+- [>] Finish Document use for [SendGrid]
+- [>] Document using [Maizzle]
+- [>] Document QA Wolf
+- [>] Make something with [React Remotion]
+- [>] Get more familiar with [Render]
+- [>] Get more familiar with [Begin]
+- [>] Document Toast
+- [>] GitHub GraphQL endpoint heatmap data massage
+- [>] GitHub GraphQL endpoint add heatmap data
+- [>] Family CMS project (Sanity/NextJS)
+  - [>] Add search function with FuseJS
 
 ## New
+
+- [>] cv.xyz
+  - [>] use vite vue and MDX
 
 <!-- Links -->
 
