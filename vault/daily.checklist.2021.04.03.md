@@ -2,7 +2,7 @@
 id: 17051df0-7a6b-4f9f-8b74-1faa05cc45b6
 title: '03'
 desc: ''
-updated: 1617441966423
+updated: 1617448840007
 created: 1617432686015
 ---
 
@@ -12,12 +12,12 @@ created: 1617432686015
   - [ ] Morning Walk
   - [ ] Post lunch walk
 - [ ] LinkedIn post
-- [ ] Community outreach
-- [ ] [Invoice Sitepoint]
+- [x] Community outreach
 
 ## Tasks
 
-- [ ] Finish paid article
+- [ ] [Invoice Sitepoint]
+- [ ] Paid article
   - [ ] Serverless showdown
     - [ ] Vercel
     - [ ] Netlify
@@ -62,6 +62,9 @@ created: 1617432686015
   - [ ] Add search function with FuseJS
 
 ## New
+
+- [ ] CFP for Decoupled Days 2021:
+      https://docs.google.com/forms/d/e/1FAIpQLScxop0OcspNwZFuHzlktUNoQ5Kqdmwugv79FhMiNo4zZBvfAQ/viewform
 
 <!-- Links -->
 
