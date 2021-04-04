@@ -39,9 +39,8 @@ created: 1617432686015
         where the ToC goes
   - [x] Email form linked to SendGrid
   - [ ] Posts
-    - [ ] [[Create a privacy policy|scratch.2021.04.02.114226.create-a-privacy-policy]]
-    - [ ]
-      [[Free Web Development Resources|scratch.2021.04.02.074748.free-web-development-resources]]
+    - [ ] Create a privacy policy
+    - [ ] Free Web Development Resources
 - [ ] Localhost blog
   - [ ] link aggregator for combined posts
 - [ ] cv.xyz

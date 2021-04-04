@@ -24,8 +24,7 @@ created: 1617345549705
     - [>] [Begin]
     - [>] [moovweb]
 - [x] natterpops
-  - [x]
-    [[OG serverless function|scratch.2021.03.31.104330.og-serverless-function]]
+  - [x] OG serverless function
 - [>] toast.scottspence.com
   - [>] Make OG Image serverless function
   - [>] Components
@@ -41,11 +40,10 @@ created: 1617345549705
   - [>] Add upcoming talks to speaking page, maybe same position as
     where the ToC goes
   - [x] Email form linked to SendGrid
-  - [x] [[Create a privacy policy|scratch.2021.04.02.114226.create-a-privacy-policy]]
+  - [x] Create a privacy policy
 - [>] Localhost blog
   - [>] link aggregator for combined posts
-- [>]
-  [[Free Web Development Resources|scratch.2021.04.02.074748.free-web-development-resources]]
+- [>] Free Web Development Resources
 
 ## Backlog
 

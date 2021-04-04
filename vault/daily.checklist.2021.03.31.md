@@ -2,7 +2,7 @@
 id: e904791a-836b-4e62-be10-d6d4ce944c88
 title: '31'
 desc: ''
-updated: 1617217804223
+updated: 1617525669328
 created: 1617181126058
 ---
 
@@ -25,8 +25,7 @@ created: 1617181126058
     - [>] [Begin]
     - [>] [moovweb]
 - [>] natterpops
-  - [>]
-    [[OG serverless function|scratch.2021.03.31.104330.og-serverless-function]]
+  - [>] OG serverless function
 - [>] toast.scottspence.com
   - [>] Plan pages content
   - [>] Markdown component

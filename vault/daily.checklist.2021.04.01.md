@@ -25,8 +25,7 @@ created: 1617257777536
     - [>] [Begin]
     - [>] [moovweb]
 - [>] natterpops
-  - [>]
-    [[OG serverless function|scratch.2021.03.31.104330.og-serverless-function]]
+  - [>] OG serverless function
 - [>] toast.scottspence.com
   - [>] Plan pages content
   - [>] Markdown component
