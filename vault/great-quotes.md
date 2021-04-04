@@ -5,9 +5,6 @@ desc: ''
 updated: 1611601723477
 created: 1611601538013
 ---
-
-# Great Quotes
-
 > "Great engineers **_should_** figure out how to be lazy. If someone
 > else has engineered the best tech stack, then **_use it._**"
 
@@ -39,3 +36,4 @@ created: 1611601538013
 > Get beyond love and grief: exist for the good of man
 
 **- _Miyamoto Musashi_**
+
