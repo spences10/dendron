@@ -1,9 +1,9 @@
 ---
-id: 17051df0-7a6b-4f9f-8b74-1faa05cc45b6
-title: '03'
+id: 2e4e7a4d-d4da-403b-b7e0-cd562f2b0ba7
+title: '04'
 desc: ''
-updated: 1617535039386
-created: 1617432686015
+updated: 1617605838796
+created: 1617535023812
 ---
 
 ## Repeating Daily
@@ -12,11 +12,14 @@ created: 1617432686015
   - [>] Morning Walk
   - [>] Post lunch walk
 - [>] LinkedIn post
-- [x] Community outreach
+- [>] Community outreach
+- [x] Send newsletter
 
 ## Tasks
 
 - [>] [Invoice Sitepoint]
+- [>] CFP for Decoupled Days 2021:
+  https://docs.google.com/forms/d/e/1FAIpQLScxop0OcspNwZFuHzlktUNoQ5Kqdmwugv79FhMiNo4zZBvfAQ/viewform
 - [>] Paid article
   - [>] Serverless showdown
     - [>] Vercel
@@ -33,11 +36,9 @@ created: 1617432686015
   - [>] Plan pages content
   - [>] Styling with Tailwind
   - [>] Finish post ending
-  - [x] Tailwind JIT (Thanks to Mike Allanson)
   - [>] Add tags page
   - [>] Add upcoming talks to speaking page, maybe same position as
     where the ToC goes
-  - [x] Email form linked to SendGrid
   - [>] Posts
     - [>] Create a privacy policy
     - [>] Free Web Development Resources
@@ -61,9 +62,6 @@ created: 1617432686015
   - [>] Add search function with FuseJS
 
 ## New
-
-- [>] CFP for Decoupled Days 2021:
-  https://docs.google.com/forms/d/e/1FAIpQLScxop0OcspNwZFuHzlktUNoQ5Kqdmwugv79FhMiNo4zZBvfAQ/viewform
 
 <!-- Links -->
 
