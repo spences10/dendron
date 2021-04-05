@@ -2,17 +2,17 @@
 id: b9113f08-9739-4994-ba76-baf9a0c805fc
 title: '05'
 desc: ''
-updated: 1617605847311
+updated: 1617644569348
 created: 1617605841969
 ---
 
 ## Repeating Daily
 
 - [ ] Make time for health
-  - [ ] Morning Walk
+  - [x] Morning Walk
   - [ ] Post lunch walk
-- [ ] LinkedIn post
-- [ ] Community outreach
+- [x] LinkedIn post
+- [x] Community outreach
 
 ## Tasks
 
@@ -25,6 +25,7 @@ created: 1617605841969
     - [ ] Netlify
     - [ ] [Begin]
     - [ ] [moovweb]
+    - [ ] [Serverless framework]
 - [ ] toast.scottspence.com
   - [ ] Make OG Image serverless function
   - [ ] Components
@@ -72,3 +73,4 @@ created: 1617605841969
 [begin]: https://begin.com/
 [invoice sitepoint]: https://www.sitepoint.com/write-for-us/
 [moovweb]: https://www.moovweb.com/
+[serverless framework]: https://www.serverless.com/
