@@ -2,7 +2,7 @@
 id: 8fcdbe6f-ff39-4c39-8274-dcacffd168f7
 title: Free Web Development Resources
 desc: ''
-updated: 1617346444407
+updated: 1617609355072
 created: 1617346071162
 ---
 
@@ -12,12 +12,13 @@ created: 1617346071162
 - CSpell VSCode extension
 - Reading the error message
 - GitHub, search and see if anytone else has done something similar
-- Search the web, MDN, SO, 
+- Search the web, MDN, SO,
 
 ## Resources
 
 - CSS Tricks
 - Josh W Comeu
+- MDN Web Docs
 
 ## Courses
 
