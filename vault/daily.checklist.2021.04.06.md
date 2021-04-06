@@ -2,22 +2,22 @@
 id: daf8bf4f-ccc6-43ff-a810-f53eef3caa2a
 title: '06'
 desc: ''
-updated: 1617694200781
+updated: 1617738951142
 created: 1617694151921
 ---
 
 ## Repeating Daily
 
 - [ ] Make time for health
-  - [ ] Morning run
+  - [x] Morning run
   - [ ] Morning Walk
   - [ ] Post lunch walk
 - [ ] LinkedIn post
-- [ ] Community outreach
+- [x] Community outreach
 
 ## Tasks
 
-- [ ] [Invoice Sitepoint]
+- [x] [Invoice Sitepoint]
 - [ ] CFP for Decoupled Days 2021:
       https://docs.google.com/forms/d/e/1FAIpQLScxop0OcspNwZFuHzlktUNoQ5Kqdmwugv79FhMiNo4zZBvfAQ/viewform
 - [ ] Paid article
@@ -43,6 +43,7 @@ created: 1617694151921
   - [ ] Posts
     - [ ] Create a privacy policy
     - [ ] Free Web Development Resources
+    - [ ] NOtes on Svelte
 - [ ] Localhost blog
   - [ ] link aggregator for combined posts
 - [ ] cv.xyz
