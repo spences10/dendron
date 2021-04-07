@@ -2,7 +2,7 @@
 id: 3b8665ac-5018-41a9-9140-7e4a85ae2e51
 title: '07'
 desc: ''
-updated: 1617814076494
+updated: 1617823204492
 created: 1617783588477
 ---
 
@@ -45,7 +45,7 @@ created: 1617783588477
   - [ ] Posts
     - [ ] Create a privacy policy
     - [ ] Free Web Development Resources
-    - [ ] NOtes on Svelte
+    - [ ] Notes on Svelte
 - [ ] Localhost blog
   - [ ] link aggregator for combined posts
 - [ ] cv.xyz
