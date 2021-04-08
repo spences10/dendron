@@ -2,7 +2,7 @@
 id: d04e4c07-691e-4e84-9f45-f5b04f0ebb82
 title: Toast
 desc: ''
-updated: 1615471556031
+updated: 1617866663706
 created: 1613808641753
 ---
 
@@ -15,6 +15,10 @@ created: 1613808641753
 - Toast example site Prince: https://github.com/maxcell/prince-toast
 - React data viz for use in Toast: http://uber.github.io/react-vis/
 - Toast starters: https://github.com/toastdotdev/starters
+
+## Tools
+
+To debug MDX issues use the CLI tool: `npx mdx2debug direcory`
 
 ## Tailwind
 
