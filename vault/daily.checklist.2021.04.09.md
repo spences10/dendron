@@ -2,15 +2,15 @@
 id: 2165ad1f-629d-4a85-90c7-a69d47ed4d11
 title: 09
 desc: ''
-updated: 1617952733935
+updated: 1617990699477
 created: 1617952671986
 ---
 
 ## Repeating Daily
 
-- [ ] Make time for health
-  - [ ] Morning Walk
-  - [ ] Post lunch walk
+- [x] Make time for health
+  - [x] Morning Walk
+  - [x] Post lunch walk
 - [ ] LinkedIn post
 - [ ] Community outreach
 
