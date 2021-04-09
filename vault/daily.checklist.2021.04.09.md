@@ -2,7 +2,7 @@
 id: 2165ad1f-629d-4a85-90c7-a69d47ed4d11
 title: 09
 desc: ''
-updated: 1617990699477
+updated: 1617995399422
 created: 1617952671986
 ---
 
@@ -39,7 +39,7 @@ created: 1617952671986
   - [ ] Add upcoming talks to speaking page, maybe same position as
         where the ToC goes
   - [ ] Posts
-    - [ ] Create a privacy policy
+    - [x] Create a privacy policy
     - [ ] Free Web Development Resources
     - [ ] Notes on Svelte
 - [ ] Localhost blog
