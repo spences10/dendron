@@ -2,18 +2,18 @@
 id: d7f9ce7e-6c5c-4ede-aa66-572408d1c592
 title: '11'
 desc: ''
-updated: 1618115808886
+updated: 1618172652071
 created: 1618115754719
 ---
 
 ## Repeating Daily
 
-- [ ] Make time for health
-  - [ ] Morning Walk
-  - [ ] Post lunch walk
+- [x] Make time for health
+  - [x] Morning Walk
+  - [x] Post lunch walk
 - [ ] LinkedIn post
 - [ ] Community outreach
-- [ ] Newsletter
+- [x] Newsletter
 
 ## Tasks
 
@@ -34,7 +34,7 @@ created: 1618115754719
   - [ ] Components
     - [ ] Markdown component
     - [ ] TopLanguages
-    - [ ] Projects
+    - [x] Projects
     - [ ] GitHubContributions
   - [ ] Add tags page
   - [ ] Add upcoming talks to speaking page, maybe same position as
