@@ -2,16 +2,16 @@
 id: 901e8a33-e353-473d-b4e4-8eb518f3b29f
 title: '12'
 desc: ''
-updated: 1618211005807
+updated: 1618257340771
 created: 1618210955108
 ---
 
 ## Repeating Daily
 
-- [ ] Make time for health
-  - [ ] Morning Run
-  - [ ] Morning Walk
-  - [ ] Post lunch walk
+- [x] Make time for health
+  - [x] Morning Run
+  - [x] Morning Walk
+  - [x] Post lunch walk
 - [ ] LinkedIn post
 - [ ] Community outreach
 
@@ -33,7 +33,7 @@ created: 1618210955108
   - [ ] Make OG Image serverless function
   - [ ] Components
     - [ ] Markdown component
-    - [ ] TopLanguages
+    - [x] TopLanguages
     - [ ] GitHubContributions
   - [ ] Add tags page
   - [ ] Add upcoming talks to speaking page, maybe same position as
