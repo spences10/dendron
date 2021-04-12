@@ -2,7 +2,7 @@
 id: d7f9ce7e-6c5c-4ede-aa66-572408d1c592
 title: '11'
 desc: ''
-updated: 1618172652071
+updated: 1618210974638
 created: 1618115754719
 ---
 
@@ -11,55 +11,55 @@ created: 1618115754719
 - [x] Make time for health
   - [x] Morning Walk
   - [x] Post lunch walk
-- [ ] LinkedIn post
-- [ ] Community outreach
+- [>] LinkedIn post
+- [>] Community outreach
 - [x] Newsletter
 
 ## Tasks
 
-- [ ] Jamstack monthly hangout
-  - [ ] get platform sorted LI?
-  - [ ] get medium aligned, hangout, zoom, discord??
-- [ ] CFP for Decoupled Days 2021:
-      https://docs.google.com/forms/d/e/1FAIpQLScxop0OcspNwZFuHzlktUNoQ5Kqdmwugv79FhMiNo4zZBvfAQ/viewform
-- [ ] Paid article
-  - [ ] Serverless showdown
-    - [ ] Vercel
-    - [ ] Netlify
-    - [ ] [Begin]
-    - [ ] [moovweb]
-    - [ ] [Serverless framework]
-- [ ] toast.scottspence.com
-  - [ ] Make OG Image serverless function
-  - [ ] Components
-    - [ ] Markdown component
-    - [ ] TopLanguages
+- [>] Jamstack monthly hangout
+  - [>] get platform sorted LI?
+  - [>] get medium aligned, hangout, zoom, discord??
+- [>] CFP for Decoupled Days 2021:
+  https://docs.google.com/forms/d/e/1FAIpQLScxop0OcspNwZFuHzlktUNoQ5Kqdmwugv79FhMiNo4zZBvfAQ/viewform
+- [>] Paid article
+  - [>] Serverless showdown
+    - [>] Vercel
+    - [>] Netlify
+    - [>] [Begin]
+    - [>] [moovweb]
+    - [>] [Serverless framework]
+- [>] toast.scottspence.com
+  - [>] Make OG Image serverless function
+  - [>] Components
+    - [>] Markdown component
+    - [>] TopLanguages
     - [x] Projects
-    - [ ] GitHubContributions
-  - [ ] Add tags page
-  - [ ] Add upcoming talks to speaking page, maybe same position as
-        where the ToC goes
-  - [ ] Posts
-    - [ ] Free Web Development Resources
-    - [ ] Notes on Svelte
-- [ ] Localhost blog
-  - [ ] link aggregator for combined posts
-- [ ] cv.xyz
-  - [ ] use vite vue and MDX
+    - [>] GitHubContributions
+  - [>] Add tags page
+  - [>] Add upcoming talks to speaking page, maybe same position as
+    where the ToC goes
+  - [>] Posts
+    - [>] Free Web Development Resources
+    - [>] Notes on Svelte
+- [>] Localhost blog
+  - [>] link aggregator for combined posts
+- [>] cv.xyz
+  - [>] use vite vue and MDX
 
 ## Backlog
 
-- [ ] Finish Document use for [SendGrid]
-- [ ] Document using [Maizzle]
-- [ ] Document QA Wolf
-- [ ] Make something with [React Remotion]
-- [ ] Get more familiar with [Render]
-- [ ] Get more familiar with [Begin]
-- [ ] Document Toast
-- [ ] GitHub GraphQL endpoint heatmap data massage
-- [ ] GitHub GraphQL endpoint add heatmap data
-- [ ] Family CMS project (Sanity/NextJS)
-  - [ ] Add search function with FuseJS
+- [>] Finish Document use for [SendGrid]
+- [>] Document using [Maizzle]
+- [>] Document QA Wolf
+- [>] Make something with [React Remotion]
+- [>] Get more familiar with [Render]
+- [>] Get more familiar with [Begin]
+- [>] Document Toast
+- [>] GitHub GraphQL endpoint heatmap data massage
+- [>] GitHub GraphQL endpoint add heatmap data
+- [>] Family CMS project (Sanity/NextJS)
+  - [>] Add search function with FuseJS
 
 ## New
 
