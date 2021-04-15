@@ -2,7 +2,7 @@
 id: 7c68e650-f166-4f44-8717-8316df01b508
 title: '15'
 desc: ''
-updated: 1618499872494
+updated: 1618514563742
 created: 1618499831054
 ---
 
@@ -53,8 +53,8 @@ created: 1618499831054
 - [ ] Get more familiar with [Render]
 - [ ] Get more familiar with [Begin]
 - [ ] Document Toast
-- [ ] GitHub GraphQL endpoint heatmap data massage
-- [ ] GitHub GraphQL endpoint add heatmap data
+- [x] GitHub GraphQL endpoint heatmap data massage
+- [x] GitHub GraphQL endpoint add heatmap data
 - [ ] Family CMS project (Sanity/NextJS)
   - [ ] Add search function with FuseJS
 
