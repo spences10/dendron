@@ -2,13 +2,14 @@
 id: 31b18027-7cea-4d12-99b5-90ec6bd00e22
 title: Resources
 desc: ''
-updated: 1618070391053
+updated: 1618553341924
 created: 1612124567297
 ---
 
 - Tailwind components for free:
   - https://www.tailwind-kit.com/
   - https://tailblocks.cc/
+  - https://material-tailwind.com/
 - Taillwind Full Config:
   https://github.com/tailwindcss/designing-with-tailwindcss/blob/master/01-getting-up-and-running/07-customizing-your-design-system/tailwind-full.config.js
 - Introduction to Tailwind and the Utility first workflow:
