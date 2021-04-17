@@ -2,7 +2,7 @@
 id: 92e34124-5e57-40c4-ae13-e0016f0d780b
 title: '17'
 desc: ''
-updated: 1618647979436
+updated: 1618691933172
 created: 1618647937439
 ---
 
@@ -11,6 +11,7 @@ created: 1618647937439
 - [ ] Make time for health
   - [ ] Morning Walk
   - [ ] Post lunch walk
+  - [x] Gardening
 - [ ] LinkedIn post
 - [ ] Community outreach
 
@@ -30,6 +31,10 @@ created: 1618647937439
     - [ ] [Serverless framework]
 - [ ] toast.scottspence.com
   - [ ] Make OG Image serverless function
+  - [ ] Use new post install script:
+        https://github.com/toastdotdev/starters/blob/main/default/package.json
+  - [ ] Tailwind UI accessible dropdown menu:
+        https://www.youtube.com/watch?v=qJnIJa-cF2M
   - [ ] Components
     - [ ] Markdown component
   - [ ] Add tags page
@@ -38,6 +43,9 @@ created: 1618647937439
   - [ ] Posts
     - [ ] Free Web Development Resources
     - [ ] Notes on Svelte
+    - [ ] Finish Document use for [SendGrid]
+    - [ ] Document using [Maizzle]
+    - [ ] Document QA Wolf
 - [ ] Localhost blog
   - [ ] link aggregator for combined posts
 - [ ] cv.xyz
@@ -45,9 +53,6 @@ created: 1618647937439
 
 ## Backlog
 
-- [ ] Finish Document use for [SendGrid]
-- [ ] Document using [Maizzle]
-- [ ] Document QA Wolf
 - [ ] Make something with [React Remotion]
 - [ ] Get more familiar with [Render]
 - [ ] Get more familiar with [Begin]
