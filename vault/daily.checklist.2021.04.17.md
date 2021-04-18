@@ -2,63 +2,63 @@
 id: 92e34124-5e57-40c4-ae13-e0016f0d780b
 title: '17'
 desc: ''
-updated: 1618691933172
+updated: 1618734452012
 created: 1618647937439
 ---
 
 ## Repeating Daily
 
-- [ ] Make time for health
-  - [ ] Morning Walk
-  - [ ] Post lunch walk
+- [>] Make time for health
+  - [>] Morning Walk
+  - [>] Post lunch walk
   - [x] Gardening
-- [ ] LinkedIn post
-- [ ] Community outreach
+- [>] LinkedIn post
+- [>] Community outreach
 
 ## Tasks
 
-- [ ] Jamstack monthly hangout
-  - [ ] get platform sorted LI?
-  - [ ] get medium aligned, hangout, zoom, discord??
-- [ ] CFP for Decoupled Days 2021:
-      https://docs.google.com/forms/d/e/1FAIpQLScxop0OcspNwZFuHzlktUNoQ5Kqdmwugv79FhMiNo4zZBvfAQ/viewform
-- [ ] Paid article
-  - [ ] Serverless showdown
-    - [ ] Vercel
-    - [ ] Netlify
-    - [ ] [Begin]
-    - [ ] [moovweb]
-    - [ ] [Serverless framework]
-- [ ] toast.scottspence.com
-  - [ ] Make OG Image serverless function
-  - [ ] Use new post install script:
-        https://github.com/toastdotdev/starters/blob/main/default/package.json
-  - [ ] Tailwind UI accessible dropdown menu:
-        https://www.youtube.com/watch?v=qJnIJa-cF2M
-  - [ ] Components
-    - [ ] Markdown component
-  - [ ] Add tags page
-  - [ ] Add upcoming talks to speaking page, maybe same position as
-        where the ToC goes
-  - [ ] Posts
-    - [ ] Free Web Development Resources
-    - [ ] Notes on Svelte
-    - [ ] Finish Document use for [SendGrid]
-    - [ ] Document using [Maizzle]
-    - [ ] Document QA Wolf
-- [ ] Localhost blog
-  - [ ] link aggregator for combined posts
-- [ ] cv.xyz
-  - [ ] use vite vue and MDX
+- [>] Jamstack monthly hangout
+  - [>] get platform sorted LI?
+  - [>] get medium aligned, hangout, zoom, discord??
+- [>] CFP for Decoupled Days 2021:
+  https://docs.google.com/forms/d/e/1FAIpQLScxop0OcspNwZFuHzlktUNoQ5Kqdmwugv79FhMiNo4zZBvfAQ/viewform
+- [>] Paid article
+  - [>] Serverless showdown
+    - [>] Vercel
+    - [>] Netlify
+    - [>] [Begin]
+    - [>] [moovweb]
+    - [>] [Serverless framework]
+- [>] toast.scottspence.com
+  - [>] Make OG Image serverless function
+  - [>] Use new post install script:
+    https://github.com/toastdotdev/starters/blob/main/default/package.json
+  - [>] Tailwind UI accessible dropdown menu:
+    https://www.youtube.com/watch?v=qJnIJa-cF2M
+  - [>] Components
+    - [>] Markdown component
+  - [>] Add tags page
+  - [>] Add upcoming talks to speaking page, maybe same position as
+    where the ToC goes
+  - [>] Posts
+    - [>] Free Web Development Resources
+    - [>] Notes on Svelte
+    - [>] Finish Document use for [SendGrid]
+    - [>] Document using [Maizzle]
+    - [>] Document QA Wolf
+- [>] Localhost blog
+  - [>] link aggregator for combined posts
+- [>] cv.xyz
+  - [>] use vite vue and MDX
 
 ## Backlog
 
-- [ ] Make something with [React Remotion]
-- [ ] Get more familiar with [Render]
-- [ ] Get more familiar with [Begin]
-- [ ] Document Toast
-- [ ] Family CMS project (Sanity/NextJS)
-  - [ ] Add search function with FuseJS
+- [>] Make something with [React Remotion]
+- [>] Get more familiar with [Render]
+- [>] Get more familiar with [Begin]
+- [>] Document Toast
+- [>] Family CMS project (Sanity/NextJS)
+  - [>] Add search function with FuseJS
 
 ## New
 
