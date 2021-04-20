@@ -2,15 +2,15 @@
 id: d53e3c34-ba7b-47f2-bca4-ffca18dc746d
 title: '20'
 desc: ''
-updated: 1618894781443
+updated: 1618947391195
 created: 1618894768505
 ---
 
 ## Repeating Daily
 
-- [ ] Make time for health
-  - [ ] Morning Walk
-  - [ ] Post lunch walk
+- [x] Make time for health
+  - [x] Morning Walk
+  - [x] Post lunch walk
 - [ ] LinkedIn post
 - [ ] Community outreach
 
@@ -30,7 +30,7 @@ created: 1618894768505
     - [ ] [Serverless framework]
 - [ ] scottspence.com
   - [ ] Make OG Image serverless function
-  - [ ] Use new post install script:
+  - [x] Use new post install script:
         https://github.com/toastdotdev/starters/blob/main/default/package.json
   - [ ] Tailwind UI accessible dropdown menu:
         https://www.youtube.com/watch?v=qJnIJa-cF2M
@@ -60,6 +60,9 @@ created: 1618894768505
   - [ ] Add search function with FuseJS
 
 ## New
+
+- [x] scottspence.com
+  - [x] Document Remove SW
 
 <!-- Links -->
 
