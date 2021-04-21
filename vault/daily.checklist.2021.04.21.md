@@ -2,7 +2,7 @@
 id: c123d4c1-a0d2-4ed8-a8b1-9ffc8b26d3ac
 title: '21'
 desc: ''
-updated: 1618985666211
+updated: 1619036742919
 created: 1618985601310
 ---
 
@@ -10,7 +10,7 @@ created: 1618985601310
 
 - [ ] Make time for health
   - [ ] Morning Walk
-  - [ ] Post lunch walk
+  - [x] Post lunch walk
 - [ ] LinkedIn post
 - [ ] Community outreach
 
@@ -58,6 +58,9 @@ created: 1618985601310
   - [ ] Add search function with FuseJS
 
 ## New
+
+- [ ] CFP for React Day Norway 2021:
+      https://docs.google.com/forms/d/e/1FAIpQLScnJ4uZSZVoJSLQZfdA6rMp5X7v8lYoXzaV_o6-EkeGHXKf0w/viewform
 
 <!-- Links -->
 
