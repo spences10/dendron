@@ -2,15 +2,15 @@
 id: 77f1e0b6-fa20-46a2-a696-cd1014def00e
 title: '22'
 desc: ''
-updated: 1619074230705
+updated: 1619110714461
 created: 1619074222653
 ---
 
 ## Repeating Daily
 
-- [ ] Make time for health
-  - [ ] Morning Walk
-  - [ ] Post lunch walk
+- [x] Make time for health
+  - [x] Morning Walk
+  - [x] Post lunch walk
 - [ ] LinkedIn post
 - [ ] Community outreach
 
@@ -21,6 +21,8 @@ created: 1619074222653
   - [ ] get medium aligned, hangout, zoom, discord??
 - [ ] CFP for Decoupled Days 2021:
       https://docs.google.com/forms/d/e/1FAIpQLScxop0OcspNwZFuHzlktUNoQ5Kqdmwugv79FhMiNo4zZBvfAQ/viewform
+- [ ] CFP for React Day Norway 2021:
+      https://docs.google.com/forms/d/e/1FAIpQLScnJ4uZSZVoJSLQZfdA6rMp5X7v8lYoXzaV_o6-EkeGHXKf0w/viewform
 - [ ] Paid article
   - [ ] Serverless showdown
     - [ ] Vercel
@@ -54,13 +56,16 @@ created: 1619074222653
 - [ ] Make something with [React Remotion]
 - [ ] Get more familiar with [Render]
 - [ ] Get more familiar with [Begin]
-- [ ] Family CMS project (Sanity/NextJS)
-  - [ ] Add search function with FuseJS
+- [x] Family CMS project (Sanity/NextJS)
+  - [x] Add search function with FuseJS
 
 ## New
 
-- [ ] CFP for React Day Norway 2021:
-      https://docs.google.com/forms/d/e/1FAIpQLScnJ4uZSZVoJSLQZfdA6rMp5X7v8lYoXzaV_o6-EkeGHXKf0w/viewform
+- [ ] Family CMS project (Sanity/Strapi)
+  - [x] Setup backend
+  - [x] Setup render
+  - [x] Setup frontend
+  - [ ] Style with Tailwind
 
 <!-- Links -->
 
