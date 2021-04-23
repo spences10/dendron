@@ -2,7 +2,7 @@
 id: 77f1e0b6-fa20-46a2-a696-cd1014def00e
 title: '22'
 desc: ''
-updated: 1619110714461
+updated: 1619160135362
 created: 1619074222653
 ---
 
@@ -11,61 +11,61 @@ created: 1619074222653
 - [x] Make time for health
   - [x] Morning Walk
   - [x] Post lunch walk
-- [ ] LinkedIn post
-- [ ] Community outreach
+- [>] LinkedIn post
+- [>] Community outreach
 
 ## Tasks
 
-- [ ] Jamstack monthly hangout
-  - [ ] get platform sorted LI?
-  - [ ] get medium aligned, hangout, zoom, discord??
-- [ ] CFP for Decoupled Days 2021:
-      https://docs.google.com/forms/d/e/1FAIpQLScxop0OcspNwZFuHzlktUNoQ5Kqdmwugv79FhMiNo4zZBvfAQ/viewform
-- [ ] CFP for React Day Norway 2021:
-      https://docs.google.com/forms/d/e/1FAIpQLScnJ4uZSZVoJSLQZfdA6rMp5X7v8lYoXzaV_o6-EkeGHXKf0w/viewform
-- [ ] Paid article
-  - [ ] Serverless showdown
-    - [ ] Vercel
-    - [ ] Netlify
-    - [ ] [Begin]
-    - [ ] [moovweb]
-    - [ ] [Serverless framework]
-- [ ] scottspence.com
-  - [ ] Make OG Image serverless function
-  - [ ] Tailwind UI accessible dropdown menu:
-        https://www.youtube.com/watch?v=qJnIJa-cF2M
-  - [ ] Components
-    - [ ] Markdown component
-  - [ ] Add tags page
-  - [ ] Add upcoming talks to speaking page, maybe same position as
-        where the ToC goes
-  - [ ] Posts
-    - [ ] Free Web Development Resources
-    - [ ] Notes on Svelte
-    - [ ] Finish Document use for [SendGrid]
-    - [ ] Document using [Maizzle]
-    - [ ] Document QA Wolf
-    - [ ] Document Toast
-- [ ] Localhost blog
-  - [ ] link aggregator for combined posts
-- [ ] cv.xyz
-  - [ ] use vite vue and MDX
+- [>] Jamstack monthly hangout
+  - [>] get platform sorted LI?
+  - [>] get medium aligned, hangout, zoom, discord??
+- [>] CFP for Decoupled Days 2021:
+  https://docs.google.com/forms/d/e/1FAIpQLScxop0OcspNwZFuHzlktUNoQ5Kqdmwugv79FhMiNo4zZBvfAQ/viewform
+- [>] CFP for React Day Norway 2021:
+  https://docs.google.com/forms/d/e/1FAIpQLScnJ4uZSZVoJSLQZfdA6rMp5X7v8lYoXzaV_o6-EkeGHXKf0w/viewform
+- [>] Paid article
+  - [>] Serverless showdown
+    - [>] Vercel
+    - [>] Netlify
+    - [>] [Begin]
+    - [>] [moovweb]
+    - [>] [Serverless framework]
+- [>] scottspence.com
+  - [>] Make OG Image serverless function
+  - [>] Tailwind UI accessible dropdown menu:
+    https://www.youtube.com/watch?v=qJnIJa-cF2M
+  - [>] Components
+    - [>] Markdown component
+  - [>] Add tags page
+  - [>] Add upcoming talks to speaking page, maybe same position as
+    where the ToC goes
+  - [>] Posts
+    - [>] Free Web Development Resources
+    - [>] Notes on Svelte
+    - [>] Finish Document use for [SendGrid]
+    - [>] Document using [Maizzle]
+    - [>] Document QA Wolf
+    - [>] Document Toast
+- [>] Localhost blog
+  - [>] link aggregator for combined posts
+- [>] cv.xyz
+  - [>] use vite vue and MDX
 
 ## Backlog
 
-- [ ] Make something with [React Remotion]
-- [ ] Get more familiar with [Render]
-- [ ] Get more familiar with [Begin]
+- [>] Make something with [React Remotion]
+- [>] Get more familiar with [Render]
+- [>] Get more familiar with [Begin]
 - [x] Family CMS project (Sanity/NextJS)
   - [x] Add search function with FuseJS
 
 ## New
 
-- [ ] Family CMS project (Sanity/Strapi)
+- [>] Family CMS project (Sanity/Strapi)
   - [x] Setup backend
   - [x] Setup render
   - [x] Setup frontend
-  - [ ] Style with Tailwind
+  - [>] Style with Tailwind
 
 <!-- Links -->
 
