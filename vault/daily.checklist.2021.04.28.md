@@ -2,7 +2,7 @@
 id: 21bebc7c-fd8b-4fb8-9cd0-4cece601e344
 title: '28'
 desc: ''
-updated: 1619651012349
+updated: 1619651271057
 created: 1619650954526
 ---
 
@@ -56,6 +56,9 @@ created: 1619650954526
   - [ ] Style with Tailwind
 
 ## New
+
+- [ ] expand on
+      https://github.com/spences10/strapi-starter-gatsby-blog-v2
 
 <!-- Links -->
 
