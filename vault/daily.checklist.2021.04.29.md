@@ -2,7 +2,7 @@
 id: 7e912872-00fb-4e69-a210-cdb938aaf6b9
 title: '29'
 desc: ''
-updated: 1619719618909
+updated: 1619723962246
 created: 1619672288706
 ---
 
@@ -58,5 +58,8 @@ created: 1619672288706
   - [ ] Style with Tailwind
 
 ## New
+
+- [ ] checkout https://getshogun.com/
+- [ ] checkout https://ninetailed.io/
 
 <!-- Links -->
