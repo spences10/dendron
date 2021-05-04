@@ -1,9 +1,9 @@
 ---
-id: f9c79dd8-c2a9-4fca-85fb-ec9fbf4a6d40
-title: '02'
+id: 95f6b107-cbce-4478-a4b3-7c558b15779e
+title: '03'
 desc: ''
-updated: 1620057546234
-created: 1619953677255
+updated: 1620160028934
+created: 1620057524896
 ---
 
 ## Repeating Daily
@@ -19,7 +19,7 @@ created: 1619953677255
 
 ## Repeating Weekly
 
-- [x] newsletter
+- [>] newsletter
 
 ## Tasks
 
@@ -35,7 +35,6 @@ created: 1619953677255
   - [>] note taking with Dendron
   - [>] A Guide to MDX: Dynamic Documents with JSX in Markdown
 - [>] scottspence.com
-  - [x] Make OG Image serverless function
   - [>] Tailwind UI accessible dropdown menu:
     https://www.youtube.com/watch?v=qJnIJa-cF2M
   - [>] Components
@@ -50,6 +49,7 @@ created: 1619953677255
     - [>] Document using [Maizzle]
     - [>] Document QA Wolf
     - [>] Document Toast
+    - [>] Notes on SvelteKit
 - [>] Localhost blog
   - [>] link aggregator for combined posts
 - [>] cv.xyz
