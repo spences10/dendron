@@ -2,7 +2,7 @@
 id: 2fabcdf8-d47b-4d8e-b908-d9580dc38e0a
 title: '05'
 desc: ''
-updated: 1620222861389
+updated: 1620224278378
 created: 1620222795062
 ---
 
@@ -20,6 +20,10 @@ created: 1620222795062
 ## Repeating Weekly
 
 - [ ] newsletter
+  - [ ] congrats to
+    - [ ] SLD
+    - [ ] Leigh Halliday
+    - [ ] Eddy
 
 ## Tasks
 
