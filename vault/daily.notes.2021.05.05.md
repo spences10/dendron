@@ -2,7 +2,7 @@
 id: e8ec60e3-e382-431f-a843-ec3a3ff87a9b
 title: '05'
 desc: ''
-updated: 1620236524767
+updated: 1620240047327
 created: 1620222709616
 ---
 
@@ -17,6 +17,7 @@ created: 1620222709616
 - [ ] Filters in Tailwind: https://www.youtube.com/watch?v=qGEZdGMgXL4
 - [ ] dev rel resources Twitter thread:
       https://twitter.com/ASpittel/status/1389600145625559045?s=20
+- [ ] Strapi crash course: https://www.youtube.com/watch?v=6FnwAbd2SDY
 
 ## Thoughts
 
