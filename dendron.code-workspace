@@ -1,48 +1,48 @@
 {
-    "folders": [
-        {
-            "path": "vault"
-        }
-    ],
-    "settings": {
-        "dendron.rootDir": ".",
-        "files.autoSave": "afterDelay",
-        "files.autoSaveDelay": 10000,
-        "pasteImage.path": "${currentFileDir}/assets/images",
-        "pasteImage.prefix": "/",
-        "markdown-preview-enhanced.enableWikiLinkSyntax": true,
-        "markdown-preview-enhanced.wikiLinkFileExtension": ".md",
-        "editor.snippetSuggestions": "inline",
-        "editor.suggest.snippetsPreventQuickSuggestions": false,
-        "editor.suggest.showSnippets": true,
-        "editor.tabCompletion": "on",
-        "dendron.defaultJournalName": "notes",
-        "cSpell.words": [
-            "Cloudinary",
-            "Heroku",
-            "Maizzle",
-            "Pamental",
-            "Pamental's",
-            "Vercel's",
-            "Zettelkasten",
-            "bezier",
-            "clippy",
-            "gsap",
-            "nextjs"
-        ]
-    },
-    "extensions": {
-        "recommendations": [
-            "dendron.dendron-paste-image",
-            "dendron.dendron-markdown-shortcuts",
-            "dendron.dendron-markdown-preview-enhanced",
-            "dendron.dendron-markdown-links"
-        ],
-        "unwantedRecommendations": [
-            "dendron.dendron-markdown-notes",
-            "shd101wyy.markdown-preview-enhanced",
-            "kortina.vscode-markdown-notes",
-            "mushan.vscode-paste-image"
-        ]
+  "folders": [
+    {
+      "path": "vault"
     }
+  ],
+  "settings": {
+    "dendron.rootDir": ".",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 10000,
+    "pasteImage.path": "${currentFileDir}/assets/images",
+    "pasteImage.prefix": "/",
+    "markdown-preview-enhanced.enableWikiLinkSyntax": true,
+    "markdown-preview-enhanced.wikiLinkFileExtension": ".md",
+    "editor.snippetSuggestions": "inline",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggest.showSnippets": true,
+    "editor.tabCompletion": "on",
+    "dendron.defaultJournalName": "notes",
+    "cSpell.words": [
+      "Cloudinary",
+      "Heroku",
+      "Maizzle",
+      "Pamental",
+      "Pamental's",
+      "Vercel's",
+      "Zettelkasten",
+      "bezier",
+      "clippy",
+      "gsap",
+      "nextjs"
+    ]
+  },
+  "extensions": {
+    "recommendations": [
+      "dendron.dendron-paste-image",
+      "dendron.dendron-markdown-shortcuts",
+      "dendron.dendron-markdown-preview-enhanced",
+      "dendron.dendron-markdown-links"
+    ],
+    "unwantedRecommendations": [
+      "dendron.dendron-markdown-notes",
+      "shd101wyy.markdown-preview-enhanced",
+      "kortina.vscode-markdown-notes",
+      "mushan.vscode-paste-image"
+    ]
+  }
 }
