@@ -2,7 +2,7 @@
 id: 6154fcb2-9fd1-4750-a45f-9be8e616df10
 title: '08'
 desc: ''
-updated: 1620499656384
+updated: 1622619639763
 created: 1620491566015
 ---
 
@@ -23,7 +23,7 @@ created: 1620491566015
 - [ ] Custom highlight in MDsveX:
       https://github.com/pngwn/MDsveX/issues/212
 - [ ] Build a MDsveX blog: https://github.com/pngwn/MDsveX/issues/122
-  - [ ] Example blogs:
+  - [ ] Example Svelte blogs:
     - [ ] https://github.com/shiryel/shiryel_blog
     - [ ] https://github.com/mhatvan/markushatvan.com
 - [ ] Twitter follow intent:
