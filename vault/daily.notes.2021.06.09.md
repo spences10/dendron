@@ -2,7 +2,7 @@
 id: 83774823-a554-43ac-88a4-c93426462e7c
 title: '2021-06-09'
 desc: ''
-updated: 1623252402759
+updated: 1623265730976
 created: 1623251810892
 ---
 
@@ -24,6 +24,9 @@ created: 1623251810892
   - [ ] The person who says they know what they think but cannot
         express it usually do not know what they think. -- Mortimer
         Adler (Philosopher)
+  - [ ] To regard anyone except yourself as responsible for your
+        judgment is to be a slave, not a free man. -- Mortimer Adler
+        (Philosopher)
 
 ## Links
 
