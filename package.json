@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "@dendronhq/dendron-11ty": "^1.35.0",
-    "@dendronhq/dendron-cli": "^0.62.0"
+    "@dendronhq/dendron-cli": "^0.64.0"
   },
   "scripts": {
     "dendron": "dendron",
